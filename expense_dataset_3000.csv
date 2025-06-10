@@ -1,0 +1,3001 @@
+date,amount,description,category
+2024-01-01,1029680,donasi gereja,Donasi & Hadiah
+2024-01-01,1303275,handuk mandi,Perumahan & Akomodasi
+2024-01-01,317929,coating motor,Transportasi
+2024-01-01,823903,ayam goreng,Makanan & Minuman
+2024-01-02,973834,franchise fee,Bisnis & Profesional
+2024-01-02,826247,cicilan kecil,Lain-lain
+2024-01-02,909914,honorarium,Bisnis & Profesional
+2024-01-02,1242445,beli buku,Belanja & Hiburan
+2024-01-03,1948049,kost-kostan,Tabungan & Investasi
+2024-01-03,1761314,novel terbaru,Belanja & Hiburan
+2024-01-03,277613,beli celana,Belanja & Hiburan
+2024-01-03,13974,program sosial,Donasi & Hadiah
+2024-01-04,557366,pos,Lain-lain
+2024-01-04,1217806,kebutuhan dadakan,Lain-lain
+2024-01-04,975989,daging ayam,Makanan & Minuman
+2024-01-04,622714,obligasi,Tabungan & Investasi
+2024-01-05,444106,asuransi kredit,Utang & Cicilan
+2024-01-05,1652648,penghapus,Pendidikan
+2024-01-05,858823,underwear,Belanja & Hiburan
+2024-01-05,1445853,beli sepatu,Belanja & Hiburan
+2024-01-05,1943255,tidak terkategori,Lain-lain
+2024-01-06,463943,kipas angin,Perumahan & Akomodasi
+2024-01-06,994160,sewa rumah,Perumahan & Akomodasi
+2024-01-06,32901,crypto,Tabungan & Investasi
+2024-01-06,500131,top up,Utang & Cicilan
+2024-01-07,1585151,correction pen,Pendidikan
+2024-01-07,1771944,forex,Tabungan & Investasi
+2024-01-07,867639,souvenir,Travel & Liburan
+2024-01-07,1301772,workshop bisnis,Bisnis & Profesional
+2024-01-07,927534,hostel,Travel & Liburan
+2024-01-07,1783407,penginapan,Travel & Liburan
+2024-01-07,720887,lemari pakaian,Perumahan & Akomodasi
+2024-01-07,720800,moisturizer,Kesehatan & Kebugaran
+2024-01-07,159625,uang kuliah,Pendidikan
+2024-01-07,151769,sabun cuci piring,Perumahan & Akomodasi
+2024-01-08,447040,supplier,Bisnis & Profesional
+2024-01-08,252104,volunteer,Donasi & Hadiah
+2024-01-08,1447351,property investment,Tabungan & Investasi
+2024-01-08,400462,jaket outdoor,Travel & Liburan
+2024-01-08,1660087,bonus,Bisnis & Profesional
+2024-01-08,1095674,investasi jangka pendek,Tabungan & Investasi
+2024-01-09,632842,royalty,Bisnis & Profesional
+2024-01-09,349177,rumah zakat,Donasi & Hadiah
+2024-01-09,1280789,personal trainer,Kesehatan & Kebugaran
+2024-01-09,1990913,alat rumah tangga,Lain-lain
+2024-01-09,1389902,tirai jendela,Perumahan & Akomodasi
+2024-01-09,852663,kerja sosial,Donasi & Hadiah
+2024-01-09,867451,bayar kos,Perumahan & Akomodasi
+2024-01-09,612055,investasi pendidikan,Tabungan & Investasi
+2024-01-10,1986915,bayar gas,Perumahan & Akomodasi
+2024-01-10,178405,macam-macam,Lain-lain
+2024-01-10,1596589,uang kuliah,Pendidikan
+2024-01-10,525633,belanja iseng,Lain-lain
+2024-01-10,871465,hosting,Bisnis & Profesional
+2024-01-10,1595524,periksa dokter,Kesehatan & Kebugaran
+2024-01-10,218800,printer,Pendidikan
+2024-01-11,470570,cat tembok,Perumahan & Akomodasi
+2024-01-11,1956941,hand sanitizer,Kesehatan & Kebugaran
+2024-01-11,1934585,deposit apartemen,Perumahan & Akomodasi
+2024-01-11,1983962,kebutuhan harian,Lain-lain
+2024-01-11,978517,cicilan furniture,Utang & Cicilan
+2024-01-11,1492089,netflix,Belanja & Hiburan
+2024-01-11,471040,tirai jendela,Perumahan & Akomodasi
+2024-01-12,245232,workshop bisnis,Bisnis & Profesional
+2024-01-12,301482,souvenir,Travel & Liburan
+2024-01-12,1330806,business meeting,Bisnis & Profesional
+2024-01-12,1452070,social media ads,Bisnis & Profesional
+2024-01-12,1807936,biaya bandara,Transportasi
+2024-01-12,326905,influencer,Bisnis & Profesional
+2024-01-13,1519547,martabak,Makanan & Minuman
+2024-01-13,1237236,biaya admin,Lain-lain
+2024-01-13,857739,pos,Lain-lain
+2024-01-13,1080098,kredit kendaraan,Utang & Cicilan
+2024-01-14,1414486,copyright,Bisnis & Profesional
+2024-01-14,1297576,periksa dokter,Kesehatan & Kebugaran
+2024-01-15,270463,pengeluaran rutin,Lain-lain
+2024-01-15,200473,powerbank,Travel & Liburan
+2024-01-15,404668,keyboard,Pendidikan
+2024-01-15,1506165,rental car,Travel & Liburan
+2024-01-16,353779,beli lampu,Perumahan & Akomodasi
+2024-01-16,148900,kurir,Lain-lain
+2024-01-16,1231198,rental mobil,Transportasi
+2024-01-16,1083063,fundraising,Donasi & Hadiah
+2024-01-17,728103,seminar,Pendidikan
+2024-01-17,146119,suplemen,Kesehatan & Kebugaran
+2024-01-17,1872145,hostel,Travel & Liburan
+2024-01-17,1384772,jaket riding,Transportasi
+2024-01-17,1806478,keperluan mendadak,Lain-lain
+2024-01-17,1360689,aneka ragam,Lain-lain
+2024-01-18,658416,cash advance,Utang & Cicilan
+2024-01-19,1319257,modal usaha,Bisnis & Profesional
+2024-01-19,1905104,investasi jangka panjang,Tabungan & Investasi
+2024-01-19,376692,hadiah pernikahan,Donasi & Hadiah
+2024-01-20,1847813,sofa ruang tamu,Perumahan & Akomodasi
+2024-01-20,114231,pengeluaran rutin,Lain-lain
+2024-01-20,1010971,bisnis sampingan,Tabungan & Investasi
+2024-01-20,1392779,pos,Lain-lain
+2024-01-20,1632424,bantuan gempa,Donasi & Hadiah
+2024-01-20,94164,cicilan TV,Utang & Cicilan
+2024-01-20,667385,tabungan kendaraan,Tabungan & Investasi
+2024-01-20,1234293,main futsal,Belanja & Hiburan
+2024-01-21,1005299,bantuan tsunami,Donasi & Hadiah
+2024-01-21,505265,hadiah valentine,Donasi & Hadiah
+2024-01-21,6433,tas travel,Travel & Liburan
+2024-01-21,999253,modal usaha,Bisnis & Profesional
+2024-01-21,83386,sleeping bag,Travel & Liburan
+2024-01-22,1213477,influencer,Bisnis & Profesional
+2024-01-22,515800,beli nasi,Makanan & Minuman
+2024-01-22,819749,obat flu,Kesehatan & Kebugaran
+2024-01-22,726673,bayar tol,Transportasi
+2024-01-23,1717226,kost-kostan,Tabungan & Investasi
+2024-01-23,1897502,kontrak rumah,Perumahan & Akomodasi
+2024-01-23,579931,spooring,Transportasi
+2024-01-24,1064993,karpet lantai,Perumahan & Akomodasi
+2024-01-24,1393361,uber,Transportasi
+2024-01-24,1556919,pensil,Pendidikan
+2024-01-24,1436103,wahana permainan,Belanja & Hiburan
+2024-01-24,1288463,family trip,Travel & Liburan
+2024-01-24,383552,kalkulator,Pendidikan
+2024-01-24,1122659,scan,Lain-lain
+2024-01-25,1675869,WOM finance,Utang & Cicilan
+2024-01-25,124290,hadiah ulang tahun,Donasi & Hadiah
+2024-01-25,1965964,aksi cepat tanggap,Donasi & Hadiah
+2024-01-26,1001433,teh botol,Makanan & Minuman
+2024-01-26,692879,fundraising,Donasi & Hadiah
+2024-01-26,505139,tagihan kecil,Lain-lain
+2024-01-26,1451088,hal tak terduga,Lain-lain
+2024-01-27,1425500,badminton,Belanja & Hiburan
+2024-01-27,756288,isi bensin,Transportasi
+2024-01-27,1744505,dompet dhuafa,Donasi & Hadiah
+2024-01-27,464318,kertas foto,Pendidikan
+2024-01-27,624927,copyright,Bisnis & Profesional
+2024-01-27,1448136,workshop,Pendidikan
+2024-01-27,693272,leasing mobil,Utang & Cicilan
+2024-01-27,167580,bantuan sosial,Donasi & Hadiah
+2024-01-28,1188615,investasi jangka panjang,Tabungan & Investasi
+2024-01-28,289582,kipas angin,Perumahan & Akomodasi
+2024-01-28,836424,saham,Tabungan & Investasi
+2024-01-28,561857,program sosial,Donasi & Hadiah
+2024-01-28,1982561,jajanan,Lain-lain
+2024-01-28,555873,beli roti,Makanan & Minuman
+2024-01-28,1272904,bis damri,Transportasi
+2024-01-28,1365261,moisturizer,Kesehatan & Kebugaran
+2024-01-28,150733,transjakarta,Transportasi
+2024-01-29,379483,cat tembok,Perumahan & Akomodasi
+2024-01-29,545687,cicilan laptop,Utang & Cicilan
+2024-01-29,273850,infaq,Donasi & Hadiah
+2024-01-29,1358362,print,Lain-lain
+2024-01-30,1994246,bayar listrik,Perumahan & Akomodasi
+2024-01-30,1840386,transjakarta,Transportasi
+2024-01-30,698139,transjakarta,Transportasi
+2024-01-30,1897991,biaya bandara,Transportasi
+2024-01-31,492925,perbaikan AC,Perumahan & Akomodasi
+2024-01-31,575384,kalkulator,Pendidikan
+2024-01-31,367402,asuransi kendaraan,Tabungan & Investasi
+2024-01-31,1700870,beli buku,Belanja & Hiburan
+2024-01-31,241741,alat kebersihan,Perumahan & Akomodasi
+2024-01-31,1216122,ujian,Pendidikan
+2024-02-01,456166,pengharum ruangan,Perumahan & Akomodasi
+2024-02-01,1427055,spooring,Transportasi
+2024-02-01,73566,pilates,Kesehatan & Kebugaran
+2024-02-01,854628,donasi online,Donasi & Hadiah
+2024-02-01,1318888,map plastik,Pendidikan
+2024-02-01,1477666,hair treatment,Kesehatan & Kebugaran
+2024-02-02,235467,baznas,Donasi & Hadiah
+2024-02-02,800374,karpet lantai,Perumahan & Akomodasi
+2024-02-02,1774044,workshop,Pendidikan
+2024-02-02,1022895,cek lab,Kesehatan & Kebugaran
+2024-02-02,187028,wahana permainan,Belanja & Hiburan
+2024-02-02,809530,crypto,Tabungan & Investasi
+2024-02-02,697585,bayar tol,Transportasi
+2024-02-02,1029696,administrasi,Lain-lain
+2024-02-02,422316,coating motor,Transportasi
+2024-02-03,37837,biaya bandara,Transportasi
+2024-02-03,672349,spooring,Transportasi
+2024-02-03,1945778,setor tabungan,Tabungan & Investasi
+2024-02-03,309234,workshop,Pendidikan
+2024-02-03,1583920,karaoke,Belanja & Hiburan
+2024-02-04,673397,beli baju,Belanja & Hiburan
+2024-02-04,1547083,sunscreen,Kesehatan & Kebugaran
+2024-02-04,1871640,reseller,Tabungan & Investasi
+2024-02-05,1893391,kuliner khas,Travel & Liburan
+2024-02-05,1809324,jasa profesional,Bisnis & Profesional
+2024-02-05,1203196,bayar gas,Perumahan & Akomodasi
+2024-02-05,1680501,print,Lain-lain
+2024-02-05,458334,franchise fee,Bisnis & Profesional
+2024-02-05,652792,donasi gereja,Donasi & Hadiah
+2024-02-06,1716306,crowdfunding sosial,Donasi & Hadiah
+2024-02-06,682006,beli furniture,Perumahan & Akomodasi
+2024-02-06,1784122,oto finance,Utang & Cicilan
+2024-02-07,1242698,sarung tangan,Transportasi
+2024-02-07,1250330,headset,Pendidikan
+2024-02-07,822875,tenda,Travel & Liburan
+2024-02-07,1881709,protein shake,Kesehatan & Kebugaran
+2024-02-08,248522,escape room,Belanja & Hiburan
+2024-02-08,1842928,konsultan,Bisnis & Profesional
+2024-02-08,1855201,sewa driver,Transportasi
+2024-02-08,1196102,daging ayam,Makanan & Minuman
+2024-02-08,850097,rental mobil,Transportasi
+2024-02-08,541428,financial planning,Tabungan & Investasi
+2024-02-08,1956787,uang rokok,Lain-lain
+2024-02-08,805160,cicilan kecil,Lain-lain
+2024-02-08,935661,konsultasi dokter,Kesehatan & Kebugaran
+2024-02-08,1509074,hadiah natal,Donasi & Hadiah
+2024-02-09,423534,denda telat,Utang & Cicilan
+2024-02-09,952093,guest house,Travel & Liburan
+2024-02-10,74970,billiard,Belanja & Hiburan
+2024-02-10,1692474,langganan internet,Perumahan & Akomodasi
+2024-02-10,1067439,beli susu,Makanan & Minuman
+2024-02-10,122255,hadiah valentine,Donasi & Hadiah
+2024-02-10,1177359,cicilan mesin cuci,Utang & Cicilan
+2024-02-10,644479,serum wajah,Kesehatan & Kebugaran
+2024-02-10,1364051,powerbank,Travel & Liburan
+2024-02-11,423089,teh botol,Makanan & Minuman
+2024-02-11,1093346,helm baru,Transportasi
+2024-02-11,316057,massage,Kesehatan & Kebugaran
+2024-02-11,1663956,parkir mobil,Transportasi
+2024-02-11,1160446,asuransi motor,Transportasi
+2024-02-12,1372002,BCA finance,Utang & Cicilan
+2024-02-12,1189708,headset,Pendidikan
+2024-02-12,1341775,insektisida,Perumahan & Akomodasi
+2024-02-12,270234,printer,Pendidikan
+2024-02-12,1100414,perbaikan AC,Perumahan & Akomodasi
+2024-02-13,969174,beli emas,Tabungan & Investasi
+2024-02-13,1437617,obligasi,Tabungan & Investasi
+2024-02-13,1097461,pengeluaran berkala,Lain-lain
+2024-02-13,1001714,baznas,Donasi & Hadiah
+2024-02-13,642354,tenis,Belanja & Hiburan
+2024-02-13,358437,sponsor acara,Donasi & Hadiah
+2024-02-14,1129551,jajanan,Lain-lain
+2024-02-14,1098562,print,Lain-lain
+2024-02-14,131059,kaos kaki,Belanja & Hiburan
+2024-02-14,1190921,porter bandara,Transportasi
+2024-02-14,768768,pecel lele,Makanan & Minuman
+2024-02-14,103492,hal tak terduga,Lain-lain
+2024-02-14,867132,perbaikan AC,Perumahan & Akomodasi
+2024-02-15,714985,headset,Pendidikan
+2024-02-15,1425761,rumah zakat,Donasi & Hadiah
+2024-02-15,52364,campur-campur,Lain-lain
+2024-02-15,101430,teh botol,Makanan & Minuman
+2024-02-15,1442302,vitamin C,Kesehatan & Kebugaran
+2024-02-15,1543211,beras,Makanan & Minuman
+2024-02-15,1833044,jaket riding,Transportasi
+2024-02-15,1206792,investasi pendidikan,Tabungan & Investasi
+2024-02-15,658612,jajan pasar,Makanan & Minuman
+2024-02-15,399419,beli vitamin,Kesehatan & Kebugaran
+2024-02-16,1501510,jajan pasar,Makanan & Minuman
+2024-02-16,961146,aksesoris,Belanja & Hiburan
+2024-02-16,708602,hadiah natal,Donasi & Hadiah
+2024-02-16,1063101,air mineral,Makanan & Minuman
+2024-02-16,1075913,guest house,Travel & Liburan
+2024-02-16,1426721,uang jajan,Lain-lain
+2024-02-17,1648935,bantal guling,Perumahan & Akomodasi
+2024-02-17,1611796,pengharum ruangan,Perumahan & Akomodasi
+2024-02-17,401575,donasi online,Donasi & Hadiah
+2024-02-18,1320849,sewa rumah,Perumahan & Akomodasi
+2024-02-18,577976,konsultan,Bisnis & Profesional
+2024-02-18,1453174,unit link,Tabungan & Investasi
+2024-02-18,1928721,villa,Travel & Liburan
+2024-02-18,6123,taksi online,Transportasi
+2024-02-19,848611,beli vitamin,Kesehatan & Kebugaran
+2024-02-19,1393251,sedekah,Donasi & Hadiah
+2024-02-19,1764124,charger portable,Travel & Liburan
+2024-02-19,457107,aksesoris,Belanja & Hiburan
+2024-02-20,1751589,bakti sosial,Donasi & Hadiah
+2024-02-20,575641,distributor,Bisnis & Profesional
+2024-02-20,394939,hotel,Travel & Liburan
+2024-02-20,555623,gopro,Travel & Liburan
+2024-02-21,1059553,program sosial,Donasi & Hadiah
+2024-02-21,1929074,tiket museum,Travel & Liburan
+2024-02-21,117826,tirai jendela,Perumahan & Akomodasi
+2024-02-21,961688,spotify premium,Belanja & Hiburan
+2024-02-22,893302,bantal guling,Perumahan & Akomodasi
+2024-02-22,660252,renang,Belanja & Hiburan
+2024-02-22,413221,fundraising,Donasi & Hadiah
+2024-02-22,654106,dropship,Tabungan & Investasi
+2024-02-22,569649,netflix,Belanja & Hiburan
+2024-02-23,1587166,angkot,Transportasi
+2024-02-23,1338529,bis damri,Transportasi
+2024-02-23,241828,google ads,Bisnis & Profesional
+2024-02-23,390329,honorarium,Bisnis & Profesional
+2024-02-23,992616,penghapus,Pendidikan
+2024-02-23,1775712,kalkulator,Pendidikan
+2024-02-23,107057,donasi bencana,Donasi & Hadiah
+2024-02-23,906072,konsultan,Bisnis & Profesional
+2024-02-23,679527,seminar bisnis,Bisnis & Profesional
+2024-02-24,1706088,bayar tol,Transportasi
+2024-02-24,436070,lemari pakaian,Perumahan & Akomodasi
+2024-02-24,424225,bahan baku,Bisnis & Profesional
+2024-02-24,1987178,kredit kendaraan,Utang & Cicilan
+2024-02-24,1726244,gado-gado,Makanan & Minuman
+2024-02-24,1427094,sabun cuci piring,Perumahan & Akomodasi
+2024-02-24,402191,volunteer,Donasi & Hadiah
+2024-02-24,592356,client meeting,Bisnis & Profesional
+2024-02-25,814260,face wash,Kesehatan & Kebugaran
+2024-02-25,1964518,pecel lele,Makanan & Minuman
+2024-02-25,701197,sunscreen,Kesehatan & Kebugaran
+2024-02-25,1175387,rental motor,Transportasi
+2024-02-25,1356980,koper,Travel & Liburan
+2024-02-25,1948493,shampoo,Kesehatan & Kebugaran
+2024-02-25,1900145,kebutuhan harian,Lain-lain
+2024-02-25,507636,print,Lain-lain
+2024-02-25,80208,obat sakit kepala,Kesehatan & Kebugaran
+2024-02-25,1670371,keyboard,Pendidikan
+2024-02-25,414798,bisnis sampingan,Tabungan & Investasi
+2024-02-25,1685766,instagram ads,Bisnis & Profesional
+2024-02-25,964515,receh,Lain-lain
+2024-02-26,637122,food court,Makanan & Minuman
+2024-02-26,325896,pengharum ruangan,Perumahan & Akomodasi
+2024-02-26,1081358,kredit tanpa agunan,Utang & Cicilan
+2024-02-26,1560444,camping equipment,Belanja & Hiburan
+2024-02-26,82009,jasa profesional,Bisnis & Profesional
+2024-02-26,195142,honorarium,Bisnis & Profesional
+2024-02-27,1693303,beli vitamin,Kesehatan & Kebugaran
+2024-02-27,791098,koran,Belanja & Hiburan
+2024-02-27,611629,sarung tangan,Transportasi
+2024-02-27,1780249,deodorant,Kesehatan & Kebugaran
+2024-02-27,463875,sikat gigi,Kesehatan & Kebugaran
+2024-02-27,1189770,tas carrier,Travel & Liburan
+2024-02-27,855411,kursus bahasa,Pendidikan
+2024-02-27,838739,lawyer,Bisnis & Profesional
+2024-02-27,524284,instagram ads,Bisnis & Profesional
+2024-02-27,623485,resort,Travel & Liburan
+2024-02-28,856884,bantal guling,Perumahan & Akomodasi
+2024-02-29,1535351,ember plastik,Perumahan & Akomodasi
+2024-03-01,492001,ember plastik,Perumahan & Akomodasi
+2024-03-01,1764654,penginapan,Travel & Liburan
+2024-03-01,271103,hiking gear,Belanja & Hiburan
+2024-03-01,1910324,cicilan laptop,Utang & Cicilan
+2024-03-02,876621,oli mesin,Transportasi
+2024-03-02,1403286,aksi cepat tanggap,Donasi & Hadiah
+2024-03-02,1319892,penggaris,Pendidikan
+2024-03-02,1050905,kereta bandara,Transportasi
+2024-03-03,124884,uang jajan,Lain-lain
+2024-03-03,898960,cicilan AC,Utang & Cicilan
+2024-03-03,882935,tabungan pernikahan,Tabungan & Investasi
+2024-03-03,1564185,webcam,Pendidikan
+2024-03-03,1718443,perbaikan AC,Perumahan & Akomodasi
+2024-03-03,1217449,trademark,Bisnis & Profesional
+2024-03-03,1164978,tablet,Pendidikan
+2024-03-03,1558392,keperluan mendadak,Lain-lain
+2024-03-04,821792,creambath,Kesehatan & Kebugaran
+2024-03-04,428953,visa,Travel & Liburan
+2024-03-04,501546,forex,Tabungan & Investasi
+2024-03-04,1847719,endorse,Bisnis & Profesional
+2024-03-05,583733,bensin motor,Transportasi
+2024-03-05,100455,tagihan kecil,Lain-lain
+2024-03-05,301195,bayar cleaning service,Perumahan & Akomodasi
+2024-03-06,1254668,dana darurat,Tabungan & Investasi
+2024-03-06,1636619,cicilan mesin cuci,Utang & Cicilan
+2024-03-06,1964962,resort,Travel & Liburan
+2024-03-06,1321031,badminton,Belanja & Hiburan
+2024-03-06,1348424,spidol,Pendidikan
+2024-03-06,1779121,google ads,Bisnis & Profesional
+2024-03-06,1413598,modal usaha,Tabungan & Investasi
+2024-03-06,879800,hiking gear,Belanja & Hiburan
+2024-03-06,244010,kalkulator,Pendidikan
+2024-03-07,1962824,rental motor,Transportasi
+2024-03-07,1932525,beli tiket kereta,Transportasi
+2024-03-08,1314288,rental mobil,Transportasi
+2024-03-08,1535833,karaoke,Belanja & Hiburan
+2024-03-08,188099,sunscreen,Kesehatan & Kebugaran
+2024-03-08,1267728,materai,Pendidikan
+2024-03-09,379632,jajan pasar,Makanan & Minuman
+2024-03-09,1627305,adventure tour,Travel & Liburan
+2024-03-10,457445,air mineral,Makanan & Minuman
+2024-03-10,1658931,financial planning,Tabungan & Investasi
+2024-03-10,1901601,hadiah lebaran,Donasi & Hadiah
+2024-03-11,274256,hostel,Travel & Liburan
+2024-03-11,602661,manicure,Kesehatan & Kebugaran
+2024-03-11,1440289,conditioner,Kesehatan & Kebugaran
+2024-03-11,607072,cicilan rumah,Utang & Cicilan
+2024-03-11,296879,tabungan haji,Tabungan & Investasi
+2024-03-11,1627204,pelunasan,Utang & Cicilan
+2024-03-11,612325,ganti oli,Transportasi
+2024-03-11,1405604,alat tulis,Pendidikan
+2024-03-11,277487,property investment,Tabungan & Investasi
+2024-03-12,482937,ayam goreng,Makanan & Minuman
+2024-03-12,1350284,koran,Belanja & Hiburan
+2024-03-12,1023924,massage,Kesehatan & Kebugaran
+2024-03-12,1442615,hadiah pernikahan,Donasi & Hadiah
+2024-03-12,11936,tiket wisata,Travel & Liburan
+2024-03-12,381013,cicilan elektronik,Utang & Cicilan
+2024-03-12,665193,lemari pakaian,Perumahan & Akomodasi
+2024-03-12,834014,berlangganan streaming,Belanja & Hiburan
+2024-03-13,128467,meterai,Lain-lain
+2024-03-13,762277,tiket pesawat,Travel & Liburan
+2024-03-13,1054577,angsuran bank,Utang & Cicilan
+2024-03-13,1915477,hadiah imlek,Donasi & Hadiah
+2024-03-13,1380206,food court,Makanan & Minuman
+2024-03-13,1985977,main game,Belanja & Hiburan
+2024-03-13,1876169,diving,Belanja & Hiburan
+2024-03-13,971734,mini golf,Belanja & Hiburan
+2024-03-13,1118420,MLM,Tabungan & Investasi
+2024-03-13,1937742,investasi reksadana,Tabungan & Investasi
+2024-03-14,363903,aksi cepat tanggap,Donasi & Hadiah
+2024-03-15,1863363,cicilan kulkas,Utang & Cicilan
+2024-03-15,727529,bumbu dapur,Makanan & Minuman
+2024-03-15,227582,mouse komputer,Pendidikan
+2024-03-15,146269,camping equipment,Belanja & Hiburan
+2024-03-15,128212,sapu dan pel,Perumahan & Akomodasi
+2024-03-15,1421882,kontrak kerja,Bisnis & Profesional
+2024-03-16,1065917,rental car,Travel & Liburan
+2024-03-16,1237227,cash advance,Utang & Cicilan
+2024-03-16,1889666,kredit investasi,Utang & Cicilan
+2024-03-16,807787,beli buku,Belanja & Hiburan
+2024-03-17,1607934,bahan baku,Bisnis & Profesional
+2024-03-17,1640646,USG,Kesehatan & Kebugaran
+2024-03-17,419712,snack minimarket,Makanan & Minuman
+2024-03-17,713733,homestay,Travel & Liburan
+2024-03-17,551673,tiket pantai,Travel & Liburan
+2024-03-17,1579390,oli mesin,Transportasi
+2024-03-18,1617721,kertas foto,Pendidikan
+2024-03-18,1329616,bubble tea,Makanan & Minuman
+2024-03-18,607628,rental car,Travel & Liburan
+2024-03-18,622648,workshop,Pendidikan
+2024-03-19,1115357,hadiah baby shower,Donasi & Hadiah
+2024-03-19,1985177,penggaris,Pendidikan
+2024-03-19,1076187,cicilan springbed,Utang & Cicilan
+2024-03-19,583693,kontrak rumah,Perumahan & Akomodasi
+2024-03-19,1612346,guide lokal,Travel & Liburan
+2024-03-19,1941530,maintenance fee,Perumahan & Akomodasi
+2024-03-19,1063305,designer,Bisnis & Profesional
+2024-03-19,1986529,pengeluaran spontan,Lain-lain
+2024-03-20,905274,printer,Pendidikan
+2024-03-20,479356,tune up,Transportasi
+2024-03-20,255401,bantuan gempa,Donasi & Hadiah
+2024-03-20,675079,body scrub,Kesehatan & Kebugaran
+2024-03-20,794218,tiket pantai,Travel & Liburan
+2024-03-20,1667840,uang jajan,Lain-lain
+2024-03-20,1135778,gaji,Bisnis & Profesional
+2024-03-20,1876859,hotel,Travel & Liburan
+2024-03-21,1716324,sabun cuci piring,Perumahan & Akomodasi
+2024-03-21,1380673,laptop,Pendidikan
+2024-03-21,117609,sepatu gunung,Travel & Liburan
+2024-03-21,1699624,rental car,Travel & Liburan
+2024-03-21,1038193,fee,Bisnis & Profesional
+2024-03-21,605883,portfolio management,Tabungan & Investasi
+2024-03-21,734662,beli nasi,Makanan & Minuman
+2024-03-21,281394,BCA finance,Utang & Cicilan
+2024-03-21,211378,tas ransel,Belanja & Hiburan
+2024-03-22,457260,air mineral,Makanan & Minuman
+2024-03-22,837664,obat flu,Kesehatan & Kebugaran
+2024-03-22,18784,kitabisa,Donasi & Hadiah
+2024-03-22,316650,refinancing,Utang & Cicilan
+2024-03-23,489990,bayar tol,Transportasi
+2024-03-23,316078,kertas foto,Pendidikan
+2024-03-23,1328371,top up,Utang & Cicilan
+2024-03-23,609761,mutual fund,Tabungan & Investasi
+2024-03-23,1550479,cicilan kitchen set,Utang & Cicilan
+2024-03-23,1842118,guide lokal,Travel & Liburan
+2024-03-24,1190366,investasi jangka panjang,Tabungan & Investasi
+2024-03-24,64113,pulpen,Pendidikan
+2024-03-24,1112659,travel adapter,Travel & Liburan
+2024-03-24,651663,cicilan laptop,Utang & Cicilan
+2024-03-24,1874185,youtube premium,Belanja & Hiburan
+2024-03-24,957223,cicilan kitchen set,Utang & Cicilan
+2024-03-24,243940,hotel,Travel & Liburan
+2024-03-24,1974403,kalkulator,Pendidikan
+2024-03-25,170521,minuman ringan,Lain-lain
+2024-03-25,513126,solo traveling,Travel & Liburan
+2024-03-25,1350132,sabun cuci piring,Perumahan & Akomodasi
+2024-03-26,629907,kertas foto,Pendidikan
+2024-03-26,922201,bowling,Belanja & Hiburan
+2024-03-27,794953,main futsal,Belanja & Hiburan
+2024-03-27,1265386,lip balm,Kesehatan & Kebugaran
+2024-03-27,547786,donasi online,Donasi & Hadiah
+2024-03-27,1827299,miscellaneous,Lain-lain
+2024-03-27,676992,foto wisata,Travel & Liburan
+2024-03-27,1167157,pengeluaran kecil,Lain-lain
+2024-03-27,1889311,visa,Travel & Liburan
+2024-03-28,207510,kipas angin,Perumahan & Akomodasi
+2024-03-28,146933,jaket outdoor,Travel & Liburan
+2024-03-28,1384090,beli lampu,Perumahan & Akomodasi
+2024-03-28,735498,sewa rumah,Perumahan & Akomodasi
+2024-03-28,1574291,topi,Belanja & Hiburan
+2024-03-28,916193,tabungan umroh,Tabungan & Investasi
+2024-03-28,832979,sewa rumah,Perumahan & Akomodasi
+2024-03-28,1141308,shampoo,Kesehatan & Kebugaran
+2024-03-28,904244,alat tulis,Pendidikan
+2024-03-29,516418,billiard,Belanja & Hiburan
+2024-03-29,840001,beli furniture,Perumahan & Akomodasi
+2024-03-29,392514,unit link,Tabungan & Investasi
+2024-03-29,804882,billiard,Belanja & Hiburan
+2024-03-29,745562,tiket teater,Belanja & Hiburan
+2024-03-29,380354,asuransi jiwa,Tabungan & Investasi
+2024-03-29,640921,grab car,Transportasi
+2024-03-30,71653,adopsi anak,Donasi & Hadiah
+2024-03-30,292804,tiket konser,Belanja & Hiburan
+2024-03-30,1963512,mega finance,Utang & Cicilan
+2024-03-30,1869757,tablet,Pendidikan
+2024-03-30,1560096,skincare,Kesehatan & Kebugaran
+2024-03-30,1839558,main futsal,Belanja & Hiburan
+2024-03-30,1621020,wahana permainan,Belanja & Hiburan
+2024-03-31,682954,penggaris,Pendidikan
+2024-03-31,914558,balancing,Transportasi
+2024-03-31,667829,cicilan mesin cuci,Utang & Cicilan
+2024-03-31,1054940,transjakarta,Transportasi
+2024-03-31,1327595,moisturizer,Kesehatan & Kebugaran
+2024-03-31,1204560,naik ojek,Transportasi
+2024-04-01,200169,webcam,Pendidikan
+2024-04-01,473352,body scrub,Kesehatan & Kebugaran
+2024-04-01,1408040,ember plastik,Perumahan & Akomodasi
+2024-04-01,912919,keyboard,Pendidikan
+2024-04-01,859120,boarding pass,Transportasi
+2024-04-01,1506068,kipas angin,Perumahan & Akomodasi
+2024-04-01,1970473,tinta printer,Pendidikan
+2024-04-01,806323,kredit kendaraan,Utang & Cicilan
+2024-04-01,1636733,paper clip,Pendidikan
+2024-04-02,1068398,kitabisa,Donasi & Hadiah
+2024-04-02,1527823,peralatan hiking,Travel & Liburan
+2024-04-02,1040111,isi bensin,Transportasi
+2024-04-02,242338,keperluan sehari-hari,Lain-lain
+2024-04-02,500014,forex,Tabungan & Investasi
+2024-04-03,751046,pengeluaran spontan,Lain-lain
+2024-04-03,1334746,setrika baju,Perumahan & Akomodasi
+2024-04-03,1852578,hiking gear,Belanja & Hiburan
+2024-04-04,203670,tagihan kecil,Lain-lain
+2024-04-04,1927842,training,Bisnis & Profesional
+2024-04-05,892947,fee,Bisnis & Profesional
+2024-04-05,358655,family trip,Travel & Liburan
+2024-04-05,1577449,tabungan umroh,Tabungan & Investasi
+2024-04-05,1336357,jajanan,Lain-lain
+2024-04-05,208975,jajanan,Lain-lain
+2024-04-05,125400,ganti aki,Transportasi
+2024-04-06,442145,solo traveling,Travel & Liburan
+2024-04-07,660409,kalkulator,Pendidikan
+2024-04-07,486855,penginapan,Travel & Liburan
+2024-04-07,1931797,sewa driver,Transportasi
+2024-04-07,1004936,food court,Makanan & Minuman
+2024-04-07,1341338,hostel,Travel & Liburan
+2024-04-07,1015679,rumah investasi,Tabungan & Investasi
+2024-04-07,634970,rumah zakat,Donasi & Hadiah
+2024-04-07,1814278,bantuan gempa,Donasi & Hadiah
+2024-04-08,1123213,lampu motor,Transportasi
+2024-04-08,1614715,pengharum ruangan,Perumahan & Akomodasi
+2024-04-09,289508,masker wajah,Kesehatan & Kebugaran
+2024-04-09,1987615,sayur mayur,Makanan & Minuman
+2024-04-09,1699876,meja makan,Perumahan & Akomodasi
+2024-04-09,910862,beras,Makanan & Minuman
+2024-04-10,1532174,beli susu,Makanan & Minuman
+2024-04-10,1138695,pecel lele,Makanan & Minuman
+2024-04-10,1834931,training,Bisnis & Profesional
+2024-04-10,1763828,tanah,Tabungan & Investasi
+2024-04-10,538762,forex,Tabungan & Investasi
+2024-04-10,1230107,hiking gear,Belanja & Hiburan
+2024-04-10,1442596,guest house,Travel & Liburan
+2024-04-10,1453846,cicilan hp,Utang & Cicilan
+2024-04-11,447551,conditioner,Kesehatan & Kebugaran
+2024-04-11,1822754,hard disk,Pendidikan
+2024-04-11,603425,tour package,Travel & Liburan
+2024-04-11,1501880,seminar,Pendidikan
+2024-04-11,671886,minum jus,Makanan & Minuman
+2024-04-11,1303158,insektisida,Perumahan & Akomodasi
+2024-04-12,1460425,kredit konsumtif,Utang & Cicilan
+2024-04-12,1509408,MLM,Tabungan & Investasi
+2024-04-12,1241426,service motor,Transportasi
+2024-04-12,1639823,ember plastik,Perumahan & Akomodasi
+2024-04-12,1792295,taksi online,Transportasi
+2024-04-12,1066860,rental motor,Transportasi
+2024-04-12,621275,uang rokok,Lain-lain
+2024-04-13,955870,warung franchise,Tabungan & Investasi
+2024-04-13,1756373,oleh-oleh,Travel & Liburan
+2024-04-13,941254,infaq,Donasi & Hadiah
+2024-04-13,1850778,mini golf,Belanja & Hiburan
+2024-04-13,1371401,lip balm,Kesehatan & Kebugaran
+2024-04-13,563011,beli kopi,Makanan & Minuman
+2024-04-13,419280,tabungan haji,Tabungan & Investasi
+2024-04-13,534033,mutual fund,Tabungan & Investasi
+2024-04-14,772123,travel agent,Travel & Liburan
+2024-04-14,1580685,fotokopi,Lain-lain
+2024-04-14,267226,kacamata,Belanja & Hiburan
+2024-04-14,739670,masker wajah,Kesehatan & Kebugaran
+2024-04-14,1068897,penginapan,Travel & Liburan
+2024-04-15,1063115,workshop,Pendidikan
+2024-04-15,1790024,kebutuhan harian,Lain-lain
+2024-04-15,1520776,lazismu,Donasi & Hadiah
+2024-04-15,80145,asuransi kesehatan,Tabungan & Investasi
+2024-04-15,1969598,bayar gas,Perumahan & Akomodasi
+2024-04-15,936107,dropship,Tabungan & Investasi
+2024-04-15,1058470,pos,Lain-lain
+2024-04-16,247071,rental motor,Transportasi
+2024-04-16,284780,donasi panti,Donasi & Hadiah
+2024-04-16,504473,serum wajah,Kesehatan & Kebugaran
+2024-04-16,1743011,masker wajah,Kesehatan & Kebugaran
+2024-04-16,1158361,metro mini,Transportasi
+2024-04-16,1944574,lain-lain,Lain-lain
+2024-04-16,1948288,lain-lain,Lain-lain
+2024-04-17,1101102,BPJS,Tabungan & Investasi
+2024-04-17,252588,cuci motor,Transportasi
+2024-04-17,1045042,cicilan rumah,Utang & Cicilan
+2024-04-17,865033,sleeping bag,Travel & Liburan
+2024-04-18,1770108,designer,Bisnis & Profesional
+2024-04-18,1239952,hair treatment,Kesehatan & Kebugaran
+2024-04-18,1282169,angsuran bank,Utang & Cicilan
+2024-04-18,1037684,minum jus,Makanan & Minuman
+2024-04-18,755703,komisi,Bisnis & Profesional
+2024-04-18,221608,biaya provisi,Utang & Cicilan
+2024-04-18,1252758,sabun cuci piring,Perumahan & Akomodasi
+2024-04-18,65554,fotokopi,Pendidikan
+2024-04-18,42570,tabungan liburan,Tabungan & Investasi
+2024-04-18,1562318,cuci motor,Transportasi
+2024-04-19,330997,pengeluaran berkala,Lain-lain
+2024-04-19,957839,stabilo,Pendidikan
+2024-04-19,309772,kue ulang tahun,Makanan & Minuman
+2024-04-19,492954,jaket riding,Transportasi
+2024-04-19,1366998,webcam,Pendidikan
+2024-04-19,758425,kontrak kerja,Bisnis & Profesional
+2024-04-19,1871876,mi instan,Makanan & Minuman
+2024-04-20,159121,cicilan mesin cuci,Utang & Cicilan
+2024-04-20,1855643,forex,Tabungan & Investasi
+2024-04-20,106156,inventory,Bisnis & Profesional
+2024-04-20,1824091,sayur mayur,Makanan & Minuman
+2024-04-20,1183712,stapler,Pendidikan
+2024-04-21,349719,parkir mobil,Transportasi
+2024-04-21,1277190,steam motor,Transportasi
+2024-04-21,1101205,warung makan,Makanan & Minuman
+2024-04-21,343344,mutual fund,Tabungan & Investasi
+2024-04-21,172373,domain,Bisnis & Profesional
+2024-04-22,650247,investasi jangka panjang,Tabungan & Investasi
+2024-04-22,210655,pulpen,Pendidikan
+2024-04-23,1025542,tenis,Belanja & Hiburan
+2024-04-23,1300472,NPWP,Bisnis & Profesional
+2024-04-23,993157,billiard,Belanja & Hiburan
+2024-04-24,518575,beli buah,Makanan & Minuman
+2024-04-24,1045876,beragam,Lain-lain
+2024-04-24,1961507,kerja sosial,Donasi & Hadiah
+2024-04-24,1437274,bayar kos,Perumahan & Akomodasi
+2024-04-25,884211,ayam goreng,Makanan & Minuman
+2024-04-25,1343155,face wash,Kesehatan & Kebugaran
+2024-04-25,893229,pajak,Bisnis & Profesional
+2024-04-25,1774538,asuransi motor,Transportasi
+2024-04-25,1892802,keperluan rumah,Lain-lain
+2024-04-25,893733,headset,Pendidikan
+2024-04-26,411645,visa,Travel & Liburan
+2024-04-26,1246990,hadiah lebaran,Donasi & Hadiah
+2024-04-26,1731549,mini golf,Belanja & Hiburan
+2024-04-26,1551398,trademark,Bisnis & Profesional
+2024-04-26,1926056,dana pensiun,Tabungan & Investasi
+2024-04-27,231699,boarding pass,Transportasi
+2024-04-27,300188,kartu kredit,Utang & Cicilan
+2024-04-27,939631,jasa profesional,Bisnis & Profesional
+2024-04-27,1682008,coating motor,Transportasi
+2024-04-27,1402396,dompet,Belanja & Hiburan
+2024-04-28,1734997,tabungan umroh,Tabungan & Investasi
+2024-04-28,10386,toner,Kesehatan & Kebugaran
+2024-04-28,802449,BPJS,Tabungan & Investasi
+2024-04-28,25284,bayar listrik,Perumahan & Akomodasi
+2024-04-28,978109,minum jus,Makanan & Minuman
+2024-04-28,1517891,beli lampu,Perumahan & Akomodasi
+2024-04-28,238586,berlangganan streaming,Belanja & Hiburan
+2024-04-29,1842342,tiket pantai,Travel & Liburan
+2024-04-29,847278,beli baju,Belanja & Hiburan
+2024-04-30,1050169,website,Bisnis & Profesional
+2024-04-30,1481474,jam tangan,Belanja & Hiburan
+2024-04-30,775795,konten kreator,Bisnis & Profesional
+2024-04-30,1705166,suplemen,Kesehatan & Kebugaran
+2024-04-30,1821958,KTA bank,Utang & Cicilan
+2024-04-30,1650761,netflix,Belanja & Hiburan
+2024-04-30,12409,transjakarta,Transportasi
+2024-04-30,1681807,kebutuhan dadakan,Lain-lain
+2024-04-30,960110,kebutuhan dadakan,Lain-lain
+2024-04-30,790299,correction pen,Pendidikan
+2024-04-30,1462973,spooring,Transportasi
+2024-04-30,1017548,deposito,Tabungan & Investasi
+2024-05-01,831075,parkir mobil,Transportasi
+2024-05-01,42264,kredit kendaraan,Utang & Cicilan
+2024-05-01,874507,facebook ads,Bisnis & Profesional
+2024-05-01,1765606,biaya bandara,Transportasi
+2024-05-01,1404463,sabun mandi,Kesehatan & Kebugaran
+2024-05-01,1801871,USG,Kesehatan & Kebugaran
+2024-05-01,85281,sofa ruang tamu,Perumahan & Akomodasi
+2024-05-02,1116151,akuntan,Bisnis & Profesional
+2024-05-02,23727,rumah investasi,Tabungan & Investasi
+2024-05-02,277435,handuk mandi,Perumahan & Akomodasi
+2024-05-03,139272,protein shake,Kesehatan & Kebugaran
+2024-05-03,733139,infaq,Donasi & Hadiah
+2024-05-03,1620513,sepatu gunung,Travel & Liburan
+2024-05-03,1743500,solo traveling,Travel & Liburan
+2024-05-03,507525,warung makan,Makanan & Minuman
+2024-05-03,1917973,bakso,Makanan & Minuman
+2024-05-04,1685692,kredit tanpa agunan,Utang & Cicilan
+2024-05-04,501471,USG,Kesehatan & Kebugaran
+2024-05-04,422245,kertas foto,Pendidikan
+2024-05-04,1243029,modal usaha,Tabungan & Investasi
+2024-05-04,1589182,seminar,Pendidikan
+2024-05-05,1344073,arcade games,Belanja & Hiburan
+2024-05-05,1750531,paper clip,Pendidikan
+2024-05-05,146693,sepatu gunung,Travel & Liburan
+2024-05-05,591066,klakson,Transportasi
+2024-05-05,1999521,tiket gunung,Travel & Liburan
+2024-05-06,1416023,cicilan elektronik,Utang & Cicilan
+2024-05-06,512380,inventory,Bisnis & Profesional
+2024-05-06,999881,tiket pantai,Travel & Liburan
+2024-05-06,1385883,cicilan springbed,Utang & Cicilan
+2024-05-06,1206077,makan siang,Makanan & Minuman
+2024-05-06,1940118,promosi,Bisnis & Profesional
+2024-05-07,1162713,obligasi,Tabungan & Investasi
+2024-05-07,1068512,receh,Lain-lain
+2024-05-07,1605371,berlangganan streaming,Belanja & Hiburan
+2024-05-07,1870388,kalkulator,Pendidikan
+2024-05-07,1877099,fee,Bisnis & Profesional
+2024-05-07,1205483,refinancing,Utang & Cicilan
+2024-05-07,1927489,bayar air,Perumahan & Akomodasi
+2024-05-07,1552516,dompet,Belanja & Hiburan
+2024-05-07,345498,tabungan kendaraan,Tabungan & Investasi
+2024-05-07,1887408,hand sanitizer,Kesehatan & Kebugaran
+2024-05-07,1297446,setor tabungan,Tabungan & Investasi
+2024-05-08,148885,hadiah idul adha,Donasi & Hadiah
+2024-05-08,155462,isi bensin,Transportasi
+2024-05-08,169846,USG,Kesehatan & Kebugaran
+2024-05-08,858008,badminton,Belanja & Hiburan
+2024-05-09,1187729,cicilan laptop,Utang & Cicilan
+2024-05-09,1346811,medical check up,Kesehatan & Kebugaran
+2024-05-09,600439,oleh-oleh,Travel & Liburan
+2024-05-09,542470,patent,Bisnis & Profesional
+2024-05-09,1862729,makanan tradisional,Travel & Liburan
+2024-05-10,1399458,creambath,Kesehatan & Kebugaran
+2024-05-10,1755747,hal tak terduga,Lain-lain
+2024-05-10,855785,guest house,Travel & Liburan
+2024-05-10,779316,beli buku,Belanja & Hiburan
+2024-05-10,130098,nasi gudeg,Makanan & Minuman
+2024-05-10,1769833,designer,Bisnis & Profesional
+2024-05-10,276340,cicilan springbed,Utang & Cicilan
+2024-05-10,1057473,amplop,Pendidikan
+2024-05-10,1159473,creambath,Kesehatan & Kebugaran
+2024-05-11,1237676,paket honeymoon,Travel & Liburan
+2024-05-11,1525826,belanja iseng,Lain-lain
+2024-05-11,1053157,nonton bioskop,Belanja & Hiburan
+2024-05-11,890029,biaya admin,Lain-lain
+2024-05-12,1060573,tirai jendela,Perumahan & Akomodasi
+2024-05-12,1007965,powerbank,Travel & Liburan
+2024-05-12,1192354,beli sepatu,Belanja & Hiburan
+2024-05-13,343861,endorse,Bisnis & Profesional
+2024-05-13,1658192,bakti sosial,Donasi & Hadiah
+2024-05-13,1931822,jilid skripsi,Pendidikan
+2024-05-13,241847,cicilan sofa,Utang & Cicilan
+2024-05-13,1740438,relawan,Donasi & Hadiah
+2024-05-13,1177929,helm baru,Transportasi
+2024-05-13,1899341,beras,Makanan & Minuman
+2024-05-13,1331787,beli pizza,Makanan & Minuman
+2024-05-13,865495,lazismu,Donasi & Hadiah
+2024-05-13,1263464,property investment,Tabungan & Investasi
+2024-05-13,1559602,kertas HVS,Pendidikan
+2024-05-14,634139,honorarium,Bisnis & Profesional
+2024-05-14,1852269,billiard,Belanja & Hiburan
+2024-05-14,328491,bantuan tsunami,Donasi & Hadiah
+2024-05-14,1241675,periksa dokter,Kesehatan & Kebugaran
+2024-05-14,64918,tour package,Travel & Liburan
+2024-05-14,1603968,naik ojek,Transportasi
+2024-05-14,206560,webinar,Pendidikan
+2024-05-15,1213403,cicilan kecil,Lain-lain
+2024-05-15,1496903,medical check up,Kesehatan & Kebugaran
+2024-05-15,485136,kartu kredit,Utang & Cicilan
+2024-05-15,1265686,hosting,Bisnis & Profesional
+2024-05-15,127990,pos,Lain-lain
+2024-05-15,377900,fotokopi,Lain-lain
+2024-05-15,968365,beli vitamin,Kesehatan & Kebugaran
+2024-05-15,582172,donasi pendidikan,Donasi & Hadiah
+2024-05-15,886076,cash advance,Utang & Cicilan
+2024-05-15,1660214,kaos kaki,Belanja & Hiburan
+2024-05-15,1339753,sarung tangan,Transportasi
+2024-05-16,253791,jasa profesional,Bisnis & Profesional
+2024-05-16,1446722,underwear,Belanja & Hiburan
+2024-05-16,1445433,amplop,Pendidikan
+2024-05-16,1337432,jilid skripsi,Pendidikan
+2024-05-16,111758,sepatu gunung,Travel & Liburan
+2024-05-17,539764,rumah investasi,Tabungan & Investasi
+2024-05-17,505323,sertifikasi,Pendidikan
+2024-05-17,1552275,pesan makanan online,Makanan & Minuman
+2024-05-17,937195,ganti kunci,Perumahan & Akomodasi
+2024-05-17,386648,face wash,Kesehatan & Kebugaran
+2024-05-18,82560,vacuum cleaner,Perumahan & Akomodasi
+2024-05-18,1381217,peer to peer lending,Tabungan & Investasi
+2024-05-18,683346,asuransi kesehatan,Tabungan & Investasi
+2024-05-18,115914,print tugas,Pendidikan
+2024-05-18,239697,warung makan,Makanan & Minuman
+2024-05-19,1625417,bayar cleaning service,Perumahan & Akomodasi
+2024-05-19,988979,stabilo,Pendidikan
+2024-05-19,1330444,angsuran bank,Utang & Cicilan
+2024-05-19,1482927,cicilan elektronik,Utang & Cicilan
+2024-05-19,1575087,webinar,Pendidikan
+2024-05-20,1899574,marketing,Bisnis & Profesional
+2024-05-20,348581,pengeluaran tak terduga,Lain-lain
+2024-05-20,1077871,unit link,Tabungan & Investasi
+2024-05-20,479529,transjakarta,Transportasi
+2024-05-20,1607702,pensil,Pendidikan
+2024-05-20,1750425,obat sakit kepala,Kesehatan & Kebugaran
+2024-05-20,714641,crypto,Tabungan & Investasi
+2024-05-21,1349649,beli buku,Belanja & Hiburan
+2024-05-21,1181264,rental car,Travel & Liburan
+2024-05-21,892176,bantuan tsunami,Donasi & Hadiah
+2024-05-21,362590,honorarium,Bisnis & Profesional
+2024-05-21,1573280,iklan,Bisnis & Profesional
+2024-05-22,1703356,aksi cepat tanggap,Donasi & Hadiah
+2024-05-22,811554,lip balm,Kesehatan & Kebugaran
+2024-05-23,1967568,take over,Utang & Cicilan
+2024-05-23,1356867,kelas aerobik,Kesehatan & Kebugaran
+2024-05-23,134329,bayar kos,Perumahan & Akomodasi
+2024-05-23,1518219,cargo,Lain-lain
+2024-05-23,1094819,uang rokok,Lain-lain
+2024-05-23,1462733,bakti sosial,Donasi & Hadiah
+2024-05-23,17184,kalkulator,Pendidikan
+2024-05-24,1380846,correction pen,Pendidikan
+2024-05-24,882110,kamera,Travel & Liburan
+2024-05-24,1406444,fax,Lain-lain
+2024-05-24,44978,kredit kendaraan,Utang & Cicilan
+2024-05-25,568540,aksi cepat tanggap,Donasi & Hadiah
+2024-05-25,1809954,pengharum ruangan,Perumahan & Akomodasi
+2024-05-25,952279,kredit kendaraan,Utang & Cicilan
+2024-05-25,649723,hal tak terduga,Lain-lain
+2024-05-25,661973,netflix,Belanja & Hiburan
+2024-05-25,412693,billiard,Belanja & Hiburan
+2024-05-25,286454,topi,Belanja & Hiburan
+2024-05-26,468560,lisensi,Bisnis & Profesional
+2024-05-26,1186307,pengharum ruangan,Perumahan & Akomodasi
+2024-05-26,889488,tune up,Transportasi
+2024-05-26,1734275,kartu kredit,Utang & Cicilan
+2024-05-27,1544728,stapler,Pendidikan
+2024-05-27,1184408,KTA bank,Utang & Cicilan
+2024-05-27,1432768,kitabisa,Donasi & Hadiah
+2024-05-27,787511,hiking gear,Belanja & Hiburan
+2024-05-27,462989,charger portable,Travel & Liburan
+2024-05-27,1616251,rental motor,Transportasi
+2024-05-27,406984,transjakarta,Transportasi
+2024-05-28,1217348,ayam goreng,Makanan & Minuman
+2024-05-28,1505871,flashdisk,Pendidikan
+2024-05-28,918914,instagram ads,Bisnis & Profesional
+2024-05-28,1068482,teh botol,Makanan & Minuman
+2024-05-29,606629,taksi online,Transportasi
+2024-05-29,608204,beli sepatu,Belanja & Hiburan
+2024-05-29,1018980,pos,Lain-lain
+2024-05-29,1631662,beli buah,Makanan & Minuman
+2024-05-29,1610233,emergency,Lain-lain
+2024-05-29,1846964,tablet,Pendidikan
+2024-05-29,652337,helm baru,Transportasi
+2024-05-29,1785749,print,Lain-lain
+2024-05-29,1297825,beli emas,Tabungan & Investasi
+2024-05-30,1989772,obligasi,Tabungan & Investasi
+2024-05-30,367553,setrika baju,Perumahan & Akomodasi
+2024-05-30,715272,sponsor acara,Donasi & Hadiah
+2024-05-30,261251,cicilan hp,Utang & Cicilan
+2024-05-30,940726,permen,Lain-lain
+2024-05-30,1742359,minuman ringan,Lain-lain
+2024-05-30,1267798,dompet,Belanja & Hiburan
+2024-05-31,312115,cek lab,Kesehatan & Kebugaran
+2024-05-31,1226962,donasi online,Donasi & Hadiah
+2024-05-31,724892,nonton bioskop,Belanja & Hiburan
+2024-05-31,780170,minuman ringan,Lain-lain
+2024-05-31,201247,meja makan,Perumahan & Akomodasi
+2024-05-31,960191,renang,Belanja & Hiburan
+2024-05-31,1429899,asuransi kendaraan,Tabungan & Investasi
+2024-06-01,1755272,penginapan,Travel & Liburan
+2024-06-01,298141,kerja sosial,Donasi & Hadiah
+2024-06-01,1304774,vitamin C,Kesehatan & Kebugaran
+2024-06-01,245040,rental mobil,Transportasi
+2024-06-01,881131,donasi bencana,Donasi & Hadiah
+2024-06-01,480898,tanah,Tabungan & Investasi
+2024-06-01,282444,rontgen,Kesehatan & Kebugaran
+2024-06-02,1227093,workshop,Pendidikan
+2024-06-02,1111817,foto wisata,Travel & Liburan
+2024-06-02,1796987,biaya bandara,Transportasi
+2024-06-02,1164441,taksi online,Transportasi
+2024-06-02,377081,hadiah pernikahan,Donasi & Hadiah
+2024-06-02,375372,cicilan motor,Utang & Cicilan
+2024-06-02,1468326,mouse komputer,Pendidikan
+2024-06-02,380110,bayar tol,Transportasi
+2024-06-03,723630,transjakarta,Transportasi
+2024-06-03,1320493,serum wajah,Kesehatan & Kebugaran
+2024-06-03,1340156,solo traveling,Travel & Liburan
+2024-06-03,1272286,keperluan sehari-hari,Lain-lain
+2024-06-03,1329577,sedekah,Donasi & Hadiah
+2024-06-04,1444833,portfolio management,Tabungan & Investasi
+2024-06-05,1543880,mutual fund,Tabungan & Investasi
+2024-06-05,376502,supplier,Bisnis & Profesional
+2024-06-05,788548,mega finance,Utang & Cicilan
+2024-06-05,654921,berlangganan streaming,Belanja & Hiburan
+2024-06-05,24513,conditioner,Kesehatan & Kebugaran
+2024-06-05,1912853,dropship,Tabungan & Investasi
+2024-06-05,938790,fax,Lain-lain
+2024-06-06,1994827,SIUP,Bisnis & Profesional
+2024-06-06,1314627,coating motor,Transportasi
+2024-06-06,669122,uang rokok,Lain-lain
+2024-06-06,1659813,minuman ringan,Lain-lain
+2024-06-06,1508381,minyak goreng,Makanan & Minuman
+2024-06-06,1620578,cicilan kulkas,Utang & Cicilan
+2024-06-06,250193,uber,Transportasi
+2024-06-06,1034376,beli furniture,Perumahan & Akomodasi
+2024-06-06,799698,kalkulator,Pendidikan
+2024-06-06,1919928,crypto,Tabungan & Investasi
+2024-06-07,1643977,alat kebersihan,Perumahan & Akomodasi
+2024-06-07,1775894,ganti kunci,Perumahan & Akomodasi
+2024-06-07,1970892,jaket,Belanja & Hiburan
+2024-06-07,1952474,beli roti,Makanan & Minuman
+2024-06-07,536906,investasi jangka panjang,Tabungan & Investasi
+2024-06-07,526608,workshop,Pendidikan
+2024-06-07,970465,bayar listrik,Perumahan & Akomodasi
+2024-06-07,1748936,tiket wisata,Travel & Liburan
+2024-06-07,1325282,leasing mobil,Utang & Cicilan
+2024-06-08,824423,sleeping bag,Travel & Liburan
+2024-06-08,1934774,deposit apartemen,Perumahan & Akomodasi
+2024-06-08,304200,promosi,Bisnis & Profesional
+2024-06-09,949774,telur ayam,Makanan & Minuman
+2024-06-09,1791503,tas travel,Travel & Liburan
+2024-06-09,291012,tiket wisata,Travel & Liburan
+2024-06-09,1440104,mi instan,Makanan & Minuman
+2024-06-09,1904134,tunjangan,Bisnis & Profesional
+2024-06-09,825793,resort,Travel & Liburan
+2024-06-09,216610,bakti sosial,Donasi & Hadiah
+2024-06-10,173005,bubble tea,Makanan & Minuman
+2024-06-10,1480430,kredit plus,Utang & Cicilan
+2024-06-10,1518296,correction pen,Pendidikan
+2024-06-10,1006282,investasi pendidikan,Tabungan & Investasi
+2024-06-10,6417,cicilan springbed,Utang & Cicilan
+2024-06-10,1509292,kertas foto,Pendidikan
+2024-06-10,1443530,pinjaman online,Utang & Cicilan
+2024-06-10,934063,foto wisata,Travel & Liburan
+2024-06-10,1173827,seminar,Pendidikan
+2024-06-10,1501452,serum wajah,Kesehatan & Kebugaran
+2024-06-10,1132717,snorkeling,Belanja & Hiburan
+2024-06-11,948864,keperluan rumah,Lain-lain
+2024-06-11,1930052,kertas HVS,Pendidikan
+2024-06-11,1493074,beli furniture,Perumahan & Akomodasi
+2024-06-11,72045,sarung tangan,Transportasi
+2024-06-12,1255760,izin usaha,Bisnis & Profesional
+2024-06-12,807248,tidak terkategori,Lain-lain
+2024-06-12,1517315,printer,Pendidikan
+2024-06-12,1915981,dispenser air,Perumahan & Akomodasi
+2024-06-12,1994592,ganti aki,Transportasi
+2024-06-12,803190,tabungan rumah,Tabungan & Investasi
+2024-06-12,66114,youtube premium,Belanja & Hiburan
+2024-06-12,1872134,makan malam,Makanan & Minuman
+2024-06-12,827682,gado-gado,Makanan & Minuman
+2024-06-13,1459739,materai,Pendidikan
+2024-06-13,1903564,billiard,Belanja & Hiburan
+2024-06-13,1045931,gado-gado,Makanan & Minuman
+2024-06-13,1080089,cuci motor,Transportasi
+2024-06-13,330111,pengharum ruangan,Perumahan & Akomodasi
+2024-06-13,603205,pengeluaran rutin,Lain-lain
+2024-06-13,512138,dokumentasi,Travel & Liburan
+2024-06-13,500200,renang,Belanja & Hiburan
+2024-06-13,670183,WOM finance,Utang & Cicilan
+2024-06-14,52072,pajak,Bisnis & Profesional
+2024-06-14,989068,jaket,Belanja & Hiburan
+2024-06-14,1621845,beli es krim,Makanan & Minuman
+2024-06-15,1701687,balancing,Transportasi
+2024-06-15,1364552,jajanan,Lain-lain
+2024-06-15,1802492,hadiah idul adha,Donasi & Hadiah
+2024-06-16,1711700,food court,Makanan & Minuman
+2024-06-16,264091,pos,Lain-lain
+2024-06-16,931697,hadiah baby shower,Donasi & Hadiah
+2024-06-17,1087117,pengeluaran spontan,Lain-lain
+2024-06-17,334470,adopsi anak,Donasi & Hadiah
+2024-06-17,1946282,biaya admin,Utang & Cicilan
+2024-06-17,1606543,hard disk,Pendidikan
+2024-06-17,136793,correction pen,Pendidikan
+2024-06-17,518644,keperluan mendadak,Lain-lain
+2024-06-18,1575678,renang,Belanja & Hiburan
+2024-06-18,96629,snack kecil,Lain-lain
+2024-06-18,1316987,beli susu,Makanan & Minuman
+2024-06-18,940792,hostel,Travel & Liburan
+2024-06-18,1084071,yoga class,Kesehatan & Kebugaran
+2024-06-18,821979,kitabisa,Donasi & Hadiah
+2024-06-19,540017,print tugas,Pendidikan
+2024-06-19,1088474,underwear,Belanja & Hiburan
+2024-06-20,1728149,distributor,Bisnis & Profesional
+2024-06-20,269631,vitamin C,Kesehatan & Kebugaran
+2024-06-20,889613,konsultan,Bisnis & Profesional
+2024-06-20,1545066,deodorant,Kesehatan & Kebugaran
+2024-06-20,1834645,sleeping bag,Travel & Liburan
+2024-06-20,1962705,beli kopi,Makanan & Minuman
+2024-06-20,1580607,kamera,Travel & Liburan
+2024-06-20,1079790,telur ayam,Makanan & Minuman
+2024-06-21,1562173,BCA finance,Utang & Cicilan
+2024-06-21,611775,stabilo,Pendidikan
+2024-06-21,1031717,hadiah anniversary,Donasi & Hadiah
+2024-06-21,422514,sofa ruang tamu,Perumahan & Akomodasi
+2024-06-21,1730058,keperluan sehari-hari,Lain-lain
+2024-06-21,893673,masker wajah,Kesehatan & Kebugaran
+2024-06-21,750713,pesan makanan online,Makanan & Minuman
+2024-06-22,600143,distributor,Bisnis & Profesional
+2024-06-22,759429,stok barang,Bisnis & Profesional
+2024-06-22,1381402,sedekah,Donasi & Hadiah
+2024-06-22,687184,soto ayam,Makanan & Minuman
+2024-06-23,1540083,crowdfunding,Tabungan & Investasi
+2024-06-23,1272603,koran,Belanja & Hiburan
+2024-06-23,1720051,charity,Donasi & Hadiah
+2024-06-23,1798073,fundraising,Donasi & Hadiah
+2024-06-23,34601,hadiah graduation,Donasi & Hadiah
+2024-06-24,970031,trademark,Bisnis & Profesional
+2024-06-24,377529,sapu dan pel,Perumahan & Akomodasi
+2024-06-24,1263012,spotify premium,Belanja & Hiburan
+2024-06-24,525800,setor tabungan,Tabungan & Investasi
+2024-06-25,1488990,teh botol,Makanan & Minuman
+2024-06-25,40000,kartu kredit,Utang & Cicilan
+2024-06-25,792211,seminar bisnis,Bisnis & Profesional
+2024-06-26,1031853,tour package,Travel & Liburan
+2024-06-26,222168,aneka ragam,Lain-lain
+2024-06-26,168356,fee,Bisnis & Profesional
+2024-06-26,1376522,beli susu,Makanan & Minuman
+2024-06-27,636137,crowdfunding sosial,Donasi & Hadiah
+2024-06-27,270831,beli buku,Belanja & Hiburan
+2024-06-27,475268,mouse komputer,Pendidikan
+2024-06-27,699135,tour package,Travel & Liburan
+2024-06-27,771082,dana darurat,Tabungan & Investasi
+2024-06-27,1469324,cicilan laptop,Utang & Cicilan
+2024-06-27,686763,koran,Belanja & Hiburan
+2024-06-27,1387349,hadiah valentine,Donasi & Hadiah
+2024-06-28,1463336,NPWP,Bisnis & Profesional
+2024-06-28,900904,upah,Bisnis & Profesional
+2024-06-28,1489575,bayar kos,Perumahan & Akomodasi
+2024-06-28,194283,cicilan rumah,Utang & Cicilan
+2024-06-28,1544299,dropship,Tabungan & Investasi
+2024-06-28,925591,copyright,Bisnis & Profesional
+2024-06-28,1651146,sofa ruang tamu,Perumahan & Akomodasi
+2024-06-28,926646,kelas aerobik,Kesehatan & Kebugaran
+2024-06-28,273952,gayung mandi,Perumahan & Akomodasi
+2024-06-28,381602,rumah investasi,Tabungan & Investasi
+2024-06-28,977347,tiket konser,Belanja & Hiburan
+2024-06-29,979231,kebutuhan harian,Lain-lain
+2024-06-29,1657473,beli susu,Makanan & Minuman
+2024-06-29,810649,penginapan,Travel & Liburan
+2024-06-29,1022247,naik ojek,Transportasi
+2024-06-29,1520137,stok barang,Bisnis & Profesional
+2024-06-29,49027,spotify premium,Belanja & Hiburan
+2024-06-29,1481493,jilid skripsi,Pendidikan
+2024-06-30,1161230,mandiri finance,Utang & Cicilan
+2024-06-30,126663,aplikasi,Pendidikan
+2024-06-30,962440,kitabisa,Donasi & Hadiah
+2024-06-30,760370,mandiri finance,Utang & Cicilan
+2024-06-30,266648,pengeluaran tak terduga,Lain-lain
+2024-07-01,1114063,gopro,Travel & Liburan
+2024-07-01,746422,take over,Utang & Cicilan
+2024-07-01,232395,copyright,Bisnis & Profesional
+2024-07-01,192041,gunting rambut,Kesehatan & Kebugaran
+2024-07-02,1104715,service charge,Perumahan & Akomodasi
+2024-07-02,875705,souvenir,Travel & Liburan
+2024-07-02,1864995,gayung mandi,Perumahan & Akomodasi
+2024-07-02,1061433,kaos kaki,Belanja & Hiburan
+2024-07-02,632261,cicilan AC,Utang & Cicilan
+2024-07-03,170608,metro mini,Transportasi
+2024-07-03,1158641,business meeting,Bisnis & Profesional
+2024-07-03,1150898,baznas,Donasi & Hadiah
+2024-07-03,27183,webcam,Pendidikan
+2024-07-03,1479993,rendang,Makanan & Minuman
+2024-07-03,65341,peer to peer lending,Tabungan & Investasi
+2024-07-03,521229,deposito,Tabungan & Investasi
+2024-07-03,1654949,beli buah,Makanan & Minuman
+2024-07-03,942915,gado-gado,Makanan & Minuman
+2024-07-04,1383551,ganti aki,Transportasi
+2024-07-04,992299,spotify premium,Belanja & Hiburan
+2024-07-04,1639025,bantuan tsunami,Donasi & Hadiah
+2024-07-04,1718898,personal trainer,Kesehatan & Kebugaran
+2024-07-04,630002,beli kopi,Makanan & Minuman
+2024-07-04,1356817,investasi pendidikan,Tabungan & Investasi
+2024-07-04,1323915,pasta gigi,Kesehatan & Kebugaran
+2024-07-05,1059581,bensin motor,Transportasi
+2024-07-05,1076235,dompet dhuafa,Donasi & Hadiah
+2024-07-05,1671097,coating motor,Transportasi
+2024-07-05,232949,tiket gunung,Travel & Liburan
+2024-07-06,1377448,konsultan,Bisnis & Profesional
+2024-07-06,839413,tiket gunung,Travel & Liburan
+2024-07-06,1583376,handuk mandi,Perumahan & Akomodasi
+2024-07-06,9374,alat rumah tangga,Lain-lain
+2024-07-06,205349,cicilan kecil,Lain-lain
+2024-07-06,1897204,personal trainer,Kesehatan & Kebugaran
+2024-07-07,998729,tabungan haji,Tabungan & Investasi
+2024-07-08,1553966,suplemen,Kesehatan & Kebugaran
+2024-07-08,779691,map plastik,Pendidikan
+2024-07-08,536283,bayar wifi,Perumahan & Akomodasi
+2024-07-08,548828,handuk mandi,Perumahan & Akomodasi
+2024-07-08,830851,beli emas,Tabungan & Investasi
+2024-07-09,147524,handuk mandi,Perumahan & Akomodasi
+2024-07-09,816571,leasing mobil,Utang & Cicilan
+2024-07-09,1390529,bonus,Bisnis & Profesional
+2024-07-09,1131966,WOM finance,Utang & Cicilan
+2024-07-09,20581,investasi jangka pendek,Tabungan & Investasi
+2024-07-09,23588,bisnis sampingan,Tabungan & Investasi
+2024-07-10,1173082,BPJS,Tabungan & Investasi
+2024-07-10,557171,cicilan rumah,Utang & Cicilan
+2024-07-10,255303,sarung tangan,Transportasi
+2024-07-10,1818184,hadiah graduation,Donasi & Hadiah
+2024-07-10,451594,bakti sosial,Donasi & Hadiah
+2024-07-11,1002466,kertas foto,Pendidikan
+2024-07-11,653131,kredit plus,Utang & Cicilan
+2024-07-11,1920607,bunga pinjaman,Utang & Cicilan
+2024-07-11,324080,beli buku pelajaran,Pendidikan
+2024-07-11,1451306,dokumentasi,Travel & Liburan
+2024-07-11,694630,cicilan hp,Utang & Cicilan
+2024-07-11,1980386,rendang,Makanan & Minuman
+2024-07-11,1206330,campur-campur,Lain-lain
+2024-07-12,1204146,pengeluaran spontan,Lain-lain
+2024-07-13,298983,travel adapter,Travel & Liburan
+2024-07-13,1491430,beli sepatu,Belanja & Hiburan
+2024-07-13,197253,vacuum cleaner,Perumahan & Akomodasi
+2024-07-13,1571319,campur-campur,Lain-lain
+2024-07-13,1519223,tabungan rumah,Tabungan & Investasi
+2024-07-13,1444313,pulpen,Pendidikan
+2024-07-13,497539,angsuran bank,Utang & Cicilan
+2024-07-13,1145054,hadiah natal,Donasi & Hadiah
+2024-07-13,839750,billiard,Belanja & Hiburan
+2024-07-13,409944,taksi online,Transportasi
+2024-07-13,1964426,hadiah idul adha,Donasi & Hadiah
+2024-07-13,1812021,makan siang,Makanan & Minuman
+2024-07-13,675339,asuransi kendaraan,Tabungan & Investasi
+2024-07-13,1502702,pengeluaran tak terduga,Lain-lain
+2024-07-13,285347,beli sepatu,Belanja & Hiburan
+2024-07-14,1515106,beli lampu,Perumahan & Akomodasi
+2024-07-14,1570088,kerja sosial,Donasi & Hadiah
+2024-07-14,1813035,koran,Belanja & Hiburan
+2024-07-14,662860,gula pasir,Makanan & Minuman
+2024-07-14,795978,beli buah,Makanan & Minuman
+2024-07-14,231001,uang saku,Lain-lain
+2024-07-14,1885014,tiket konser,Belanja & Hiburan
+2024-07-14,1619222,beli furniture,Perumahan & Akomodasi
+2024-07-14,1945915,skincare,Kesehatan & Kebugaran
+2024-07-15,1202499,bayar listrik,Perumahan & Akomodasi
+2024-07-15,1895918,kaos kaki,Belanja & Hiburan
+2024-07-15,1676524,teh botol,Makanan & Minuman
+2024-07-15,1316216,sprei kasur,Perumahan & Akomodasi
+2024-07-15,137480,fee,Bisnis & Profesional
+2024-07-16,589272,MLM,Tabungan & Investasi
+2024-07-16,1562934,sertifikasi,Pendidikan
+2024-07-16,1800469,balancing,Transportasi
+2024-07-16,177690,mouse komputer,Pendidikan
+2024-07-16,526693,solo traveling,Travel & Liburan
+2024-07-16,210495,tablet,Pendidikan
+2024-07-16,30771,service charge,Perumahan & Akomodasi
+2024-07-16,301814,rendang,Makanan & Minuman
+2024-07-16,1187043,uang parkir,Lain-lain
+2024-07-17,928999,printer,Pendidikan
+2024-07-17,1191373,seminar bisnis,Bisnis & Profesional
+2024-07-17,1622471,kost-kostan,Tabungan & Investasi
+2024-07-18,810261,fax,Lain-lain
+2024-07-18,1064980,tabungan rumah,Tabungan & Investasi
+2024-07-18,1210666,cicilan AC,Utang & Cicilan
+2024-07-18,1426277,tenda,Travel & Liburan
+2024-07-18,470869,volunteer,Donasi & Hadiah
+2024-07-18,1829225,beragam,Lain-lain
+2024-07-19,289142,cicilan hp,Utang & Cicilan
+2024-07-19,1955804,rontgen,Kesehatan & Kebugaran
+2024-07-19,1547807,dokumentasi,Travel & Liburan
+2024-07-20,151745,kalkulator,Pendidikan
+2024-07-20,621935,keperluan mendadak,Lain-lain
+2024-07-20,165353,snorkeling,Belanja & Hiburan
+2024-07-20,1668157,bayar listrik,Perumahan & Akomodasi
+2024-07-21,1147030,crypto,Tabungan & Investasi
+2024-07-21,905837,mandiri finance,Utang & Cicilan
+2024-07-21,1372864,cicilan AC,Utang & Cicilan
+2024-07-21,464161,underwear,Belanja & Hiburan
+2024-07-22,1475785,fotokopi,Lain-lain
+2024-07-22,1732017,e-book,Belanja & Hiburan
+2024-07-23,1962420,ikan segar,Makanan & Minuman
+2024-07-23,603559,komik,Belanja & Hiburan
+2024-07-23,1997438,uang parkir,Lain-lain
+2024-07-23,427939,go-kart,Belanja & Hiburan
+2024-07-23,159202,tanah,Tabungan & Investasi
+2024-07-23,531940,asuransi jiwa,Tabungan & Investasi
+2024-07-23,802657,bayar air,Perumahan & Akomodasi
+2024-07-24,841747,receh,Lain-lain
+2024-07-24,1843071,lampu motor,Transportasi
+2024-07-24,377532,take over,Utang & Cicilan
+2024-07-24,74355,teh botol,Makanan & Minuman
+2024-07-24,585176,pilates,Kesehatan & Kebugaran
+2024-07-24,314840,tablet,Pendidikan
+2024-07-24,1651817,social media ads,Bisnis & Profesional
+2024-07-24,1420802,alat tulis,Pendidikan
+2024-07-25,1961693,tiket gunung,Travel & Liburan
+2024-07-25,529460,pinjaman online,Utang & Cicilan
+2024-07-25,1618169,cicilan kulkas,Utang & Cicilan
+2024-07-25,172805,arcade games,Belanja & Hiburan
+2024-07-25,96878,camping,Travel & Liburan
+2024-07-26,751643,shampoo,Kesehatan & Kebugaran
+2024-07-26,1448956,boarding pass,Transportasi
+2024-07-26,376359,yoga class,Kesehatan & Kebugaran
+2024-07-26,835262,biaya admin,Utang & Cicilan
+2024-07-27,1630234,tabungan umroh,Tabungan & Investasi
+2024-07-27,170822,course online,Pendidikan
+2024-07-27,1756024,underwear,Belanja & Hiburan
+2024-07-27,1138384,kereta bandara,Transportasi
+2024-07-27,1541530,bantal guling,Perumahan & Akomodasi
+2024-07-28,1162794,rumah investasi,Tabungan & Investasi
+2024-07-28,505449,porter bandara,Transportasi
+2024-07-28,504256,stok barang,Bisnis & Profesional
+2024-07-28,369224,parkir motor,Transportasi
+2024-07-28,168922,toner,Kesehatan & Kebugaran
+2024-07-29,77748,adventure tour,Travel & Liburan
+2024-07-29,392515,hadiah lebaran,Donasi & Hadiah
+2024-07-29,1059382,hard disk,Pendidikan
+2024-07-29,1532459,print tugas,Pendidikan
+2024-07-29,1658272,dokumentasi,Travel & Liburan
+2024-07-29,936616,pasta gigi,Kesehatan & Kebugaran
+2024-07-29,1720252,karaoke,Belanja & Hiburan
+2024-07-30,735438,tas travel,Travel & Liburan
+2024-07-30,1200532,biaya gym,Kesehatan & Kebugaran
+2024-07-30,616972,cuci motor,Transportasi
+2024-07-30,863798,hiking gear,Belanja & Hiburan
+2024-07-30,818890,jaket outdoor,Travel & Liburan
+2024-07-30,1223509,promosi,Bisnis & Profesional
+2024-07-30,189173,domain,Bisnis & Profesional
+2024-07-31,1710095,hadiah idul adha,Donasi & Hadiah
+2024-07-31,1030513,kurir,Lain-lain
+2024-07-31,1582591,hadiah valentine,Donasi & Hadiah
+2024-07-31,976708,refinancing,Utang & Cicilan
+2024-07-31,698326,keperluan rumah,Lain-lain
+2024-07-31,315915,beli pizza,Makanan & Minuman
+2024-07-31,1306188,distributor,Bisnis & Profesional
+2024-08-01,700665,lazismu,Donasi & Hadiah
+2024-08-01,411258,beli buku,Belanja & Hiburan
+2024-08-02,1476823,influencer,Bisnis & Profesional
+2024-08-02,1748324,pelunasan,Utang & Cicilan
+2024-08-02,740012,yoga class,Kesehatan & Kebugaran
+2024-08-02,1288569,kebutuhan dadakan,Lain-lain
+2024-08-02,677061,hal tak terduga,Lain-lain
+2024-08-02,43022,resort,Travel & Liburan
+2024-08-02,1727020,warung makan,Makanan & Minuman
+2024-08-02,1086764,denda telat,Utang & Cicilan
+2024-08-02,1470928,permen,Lain-lain
+2024-08-03,216283,investasi jangka panjang,Tabungan & Investasi
+2024-08-03,693824,mega finance,Utang & Cicilan
+2024-08-03,508630,bowling,Belanja & Hiburan
+2024-08-03,187937,bantuan tsunami,Donasi & Hadiah
+2024-08-04,450910,donasi gereja,Donasi & Hadiah
+2024-08-04,612014,rental motor,Transportasi
+2024-08-04,1002196,cicilan kecil,Lain-lain
+2024-08-04,1102368,masker wajah,Kesehatan & Kebugaran
+2024-08-04,1000877,hosting,Bisnis & Profesional
+2024-08-04,598397,pecel lele,Makanan & Minuman
+2024-08-05,1257305,gaji,Bisnis & Profesional
+2024-08-05,1016224,coating motor,Transportasi
+2024-08-05,551552,gado-gado,Makanan & Minuman
+2024-08-05,1490733,uang rokok,Lain-lain
+2024-08-05,1108134,donasi bencana,Donasi & Hadiah
+2024-08-05,128694,transjakarta,Transportasi
+2024-08-05,592536,arcade games,Belanja & Hiburan
+2024-08-06,1669583,tas travel,Travel & Liburan
+2024-08-06,699296,konsultan,Bisnis & Profesional
+2024-08-06,1757516,izin usaha,Bisnis & Profesional
+2024-08-06,1162178,deterjen,Perumahan & Akomodasi
+2024-08-06,683151,meja makan,Perumahan & Akomodasi
+2024-08-06,1197948,rendang,Makanan & Minuman
+2024-08-07,859797,dispenser air,Perumahan & Akomodasi
+2024-08-07,1653531,gopro,Travel & Liburan
+2024-08-07,1947270,tabungan rumah,Tabungan & Investasi
+2024-08-07,1623001,beli buku pelajaran,Pendidikan
+2024-08-07,1000550,adventure tour,Travel & Liburan
+2024-08-08,199502,pelatihan,Pendidikan
+2024-08-08,1867461,BPJS,Tabungan & Investasi
+2024-08-08,882303,jaket,Belanja & Hiburan
+2024-08-09,217284,guest house,Travel & Liburan
+2024-08-09,586740,bantuan korban banjir,Donasi & Hadiah
+2024-08-10,1547952,bakso,Makanan & Minuman
+2024-08-10,1828418,bunga pinjaman,Utang & Cicilan
+2024-08-10,1313974,suplemen,Kesehatan & Kebugaran
+2024-08-10,658423,materai,Pendidikan
+2024-08-10,260412,aksi cepat tanggap,Donasi & Hadiah
+2024-08-10,1602737,cicilan kulkas,Utang & Cicilan
+2024-08-11,1613301,biaya provisi,Utang & Cicilan
+2024-08-11,1836096,sikat gigi,Kesehatan & Kebugaran
+2024-08-11,787658,koper,Travel & Liburan
+2024-08-11,1042492,property investment,Tabungan & Investasi
+2024-08-11,388326,donasi pendidikan,Donasi & Hadiah
+2024-08-11,625317,taxi bandara,Transportasi
+2024-08-11,1868757,karaoke,Belanja & Hiburan
+2024-08-11,1547075,keperluan mendadak,Lain-lain
+2024-08-12,1772588,freelancer,Bisnis & Profesional
+2024-08-12,716255,lazismu,Donasi & Hadiah
+2024-08-12,472717,rendang,Makanan & Minuman
+2024-08-13,577386,denda telat,Utang & Cicilan
+2024-08-13,147976,kaca spion,Transportasi
+2024-08-13,487198,kontrak kerja,Bisnis & Profesional
+2024-08-13,898830,langganan internet,Perumahan & Akomodasi
+2024-08-13,198946,cash advance,Utang & Cicilan
+2024-08-13,1523362,kontrak rumah,Perumahan & Akomodasi
+2024-08-14,1337538,supplier,Bisnis & Profesional
+2024-08-14,1007820,USG,Kesehatan & Kebugaran
+2024-08-14,39015,beragam,Lain-lain
+2024-08-14,825267,cicilan elektronik,Utang & Cicilan
+2024-08-14,223334,komisi,Bisnis & Profesional
+2024-08-14,1426229,facebook ads,Bisnis & Profesional
+2024-08-14,412531,donasi yatim piatu,Donasi & Hadiah
+2024-08-14,1348935,cargo,Lain-lain
+2024-08-14,1417715,beli tiket kereta,Transportasi
+2024-08-15,1956341,cash advance,Utang & Cicilan
+2024-08-15,1732368,transjakarta,Transportasi
+2024-08-15,749780,beli nasi,Makanan & Minuman
+2024-08-15,1282226,workshop,Pendidikan
+2024-08-15,118556,hadiah baby shower,Donasi & Hadiah
+2024-08-15,1098605,bantuan tsunami,Donasi & Hadiah
+2024-08-15,24269,karpet lantai,Perumahan & Akomodasi
+2024-08-16,1424141,parkir mobil,Transportasi
+2024-08-16,845800,penginapan,Travel & Liburan
+2024-08-16,745080,gopro,Travel & Liburan
+2024-08-17,1777876,meja makan,Perumahan & Akomodasi
+2024-08-17,1093630,konsultan,Bisnis & Profesional
+2024-08-17,1182069,fotokopi,Lain-lain
+2024-08-17,546175,balancing,Transportasi
+2024-08-17,404600,kebutuhan dadakan,Lain-lain
+2024-08-17,140616,kitabisa,Donasi & Hadiah
+2024-08-18,1910076,website,Bisnis & Profesional
+2024-08-18,1991130,vacuum cleaner,Perumahan & Akomodasi
+2024-08-18,1881795,keyboard,Pendidikan
+2024-08-18,1483284,aksesoris,Belanja & Hiburan
+2024-08-18,159579,oli mesin,Transportasi
+2024-08-18,115239,cargo,Lain-lain
+2024-08-18,774761,bus kota,Transportasi
+2024-08-19,949797,kamera,Travel & Liburan
+2024-08-19,1419332,workshop bisnis,Bisnis & Profesional
+2024-08-19,1614422,tabungan rumah,Tabungan & Investasi
+2024-08-19,115081,facebook ads,Bisnis & Profesional
+2024-08-19,1375983,berlangganan streaming,Belanja & Hiburan
+2024-08-20,638901,jilid skripsi,Pendidikan
+2024-08-20,650646,setrika baju,Perumahan & Akomodasi
+2024-08-20,1786484,fotokopi,Lain-lain
+2024-08-20,1206455,rumah investasi,Tabungan & Investasi
+2024-08-20,474962,sapu dan pel,Perumahan & Akomodasi
+2024-08-21,1389189,periksa dokter,Kesehatan & Kebugaran
+2024-08-21,1740223,MLM,Tabungan & Investasi
+2024-08-21,1228737,lain-lain,Lain-lain
+2024-08-21,1564701,boarding pass,Transportasi
+2024-08-21,1601791,crypto,Tabungan & Investasi
+2024-08-21,871982,bensin motor,Transportasi
+2024-08-21,407341,tiket gunung,Travel & Liburan
+2024-08-22,1807786,bayar listrik,Perumahan & Akomodasi
+2024-08-22,1691293,bayar cleaning service,Perumahan & Akomodasi
+2024-08-22,420794,vacuum cleaner,Perumahan & Akomodasi
+2024-08-22,1804191,snorkeling,Belanja & Hiburan
+2024-08-23,20080,hadiah imlek,Donasi & Hadiah
+2024-08-23,1752670,souvenir,Travel & Liburan
+2024-08-23,730949,sunscreen,Kesehatan & Kebugaran
+2024-08-23,282271,dana darurat,Tabungan & Investasi
+2024-08-23,215299,kredit konsumtif,Utang & Cicilan
+2024-08-23,1802204,dispenser air,Perumahan & Akomodasi
+2024-08-23,451983,oto finance,Utang & Cicilan
+2024-08-24,24171,sewa rumah,Perumahan & Akomodasi
+2024-08-24,402327,kamera,Travel & Liburan
+2024-08-24,489258,hadiah imlek,Donasi & Hadiah
+2024-08-24,898545,facial,Kesehatan & Kebugaran
+2024-08-25,1474782,powerbank,Travel & Liburan
+2024-08-25,709385,family trip,Travel & Liburan
+2024-08-26,1658905,fotokopi,Pendidikan
+2024-08-26,524793,parkir mobil,Transportasi
+2024-08-26,1547370,bayar listrik,Perumahan & Akomodasi
+2024-08-26,1482714,makanan tradisional,Travel & Liburan
+2024-08-27,673789,cicilan kecil,Lain-lain
+2024-08-27,1480761,obligasi,Tabungan & Investasi
+2024-08-27,1000286,dana darurat,Tabungan & Investasi
+2024-08-27,601714,correction pen,Pendidikan
+2024-08-28,1979670,crypto,Tabungan & Investasi
+2024-08-28,1413516,makan siang,Makanan & Minuman
+2024-08-28,1304218,ganti kunci,Perumahan & Akomodasi
+2024-08-28,1247628,designer,Bisnis & Profesional
+2024-08-28,1415973,cicilan sofa,Utang & Cicilan
+2024-08-29,764484,lawyer,Bisnis & Profesional
+2024-08-29,696274,asuransi kredit,Utang & Cicilan
+2024-08-29,252935,ayam goreng,Makanan & Minuman
+2024-08-29,1800809,charger portable,Travel & Liburan
+2024-08-29,685554,izin usaha,Bisnis & Profesional
+2024-08-29,1707662,tiket gunung,Travel & Liburan
+2024-08-29,1681404,kredit investasi,Utang & Cicilan
+2024-08-29,1116907,rontgen,Kesehatan & Kebugaran
+2024-08-29,1807327,topi,Belanja & Hiburan
+2024-08-30,1853463,metro mini,Transportasi
+2024-08-30,1695745,donasi gereja,Donasi & Hadiah
+2024-08-30,1290730,arcade games,Belanja & Hiburan
+2024-08-30,1829283,es krim,Lain-lain
+2024-08-30,21496,cicilan furniture,Utang & Cicilan
+2024-08-30,1582876,leasing motor,Utang & Cicilan
+2024-08-30,1304325,handuk mandi,Perumahan & Akomodasi
+2024-08-31,38095,donasi gereja,Donasi & Hadiah
+2024-08-31,828975,bayar air,Perumahan & Akomodasi
+2024-09-01,1900771,arcade games,Belanja & Hiburan
+2024-09-01,185801,teh botol,Makanan & Minuman
+2024-09-01,335185,modal usaha,Bisnis & Profesional
+2024-09-01,1385532,seminar,Pendidikan
+2024-09-01,1455544,balancing,Transportasi
+2024-09-01,38407,distributor,Bisnis & Profesional
+2024-09-01,1697970,top up,Utang & Cicilan
+2024-09-01,38635,konsultasi dokter,Kesehatan & Kebugaran
+2024-09-02,162422,klakson,Transportasi
+2024-09-02,656690,macam-macam,Lain-lain
+2024-09-02,1409743,biaya gym,Kesehatan & Kebugaran
+2024-09-02,840654,webinar,Pendidikan
+2024-09-03,1359556,keperluan rumah,Lain-lain
+2024-09-03,397825,donasi lingkungan,Donasi & Hadiah
+2024-09-03,1322550,print,Lain-lain
+2024-09-03,1803394,spa treatment,Kesehatan & Kebugaran
+2024-09-03,1424845,bantuan tsunami,Donasi & Hadiah
+2024-09-03,1716874,mini golf,Belanja & Hiburan
+2024-09-03,852455,mie ayam,Makanan & Minuman
+2024-09-03,1931459,tunjangan,Bisnis & Profesional
+2024-09-03,1610432,asuransi motor,Transportasi
+2024-09-03,639786,tabungan haji,Tabungan & Investasi
+2024-09-04,615841,beragam,Lain-lain
+2024-09-04,485683,topi,Belanja & Hiburan
+2024-09-05,1788194,beli furniture,Perumahan & Akomodasi
+2024-09-05,360641,volunteer,Donasi & Hadiah
+2024-09-05,1245865,cicilan elektronik,Utang & Cicilan
+2024-09-06,1224610,camping equipment,Belanja & Hiburan
+2024-09-06,1862363,nasi padang,Makanan & Minuman
+2024-09-06,1207688,jajan pasar,Makanan & Minuman
+2024-09-06,1016612,tour package,Travel & Liburan
+2024-09-06,1584685,obat flu,Kesehatan & Kebugaran
+2024-09-07,800775,ban motor,Transportasi
+2024-09-07,1304743,tiket gunung,Travel & Liburan
+2024-09-07,1608730,beli es krim,Makanan & Minuman
+2024-09-08,1377812,adira finance,Utang & Cicilan
+2024-09-08,1960379,isi bensin,Transportasi
+2024-09-08,1051251,konten kreator,Bisnis & Profesional
+2024-09-08,889415,kaca spion,Transportasi
+2024-09-08,721449,freelancer,Bisnis & Profesional
+2024-09-08,50072,transjakarta,Transportasi
+2024-09-09,88344,kitabisa,Donasi & Hadiah
+2024-09-09,630998,main futsal,Belanja & Hiburan
+2024-09-09,177046,miscellaneous,Lain-lain
+2024-09-09,1044773,meterai,Lain-lain
+2024-09-09,563381,yoga class,Kesehatan & Kebugaran
+2024-09-10,948157,beli sepatu,Belanja & Hiburan
+2024-09-10,1088077,kasur baru,Perumahan & Akomodasi
+2024-09-11,809413,air mineral,Makanan & Minuman
+2024-09-11,659504,body scrub,Kesehatan & Kebugaran
+2024-09-11,724027,tiket teater,Belanja & Hiburan
+2024-09-11,523336,BPJS,Tabungan & Investasi
+2024-09-11,624669,charger portable,Travel & Liburan
+2024-09-11,1301777,laptop,Pendidikan
+2024-09-12,1699545,setrika baju,Perumahan & Akomodasi
+2024-09-12,746717,marketing,Bisnis & Profesional
+2024-09-12,218715,vacuum cleaner,Perumahan & Akomodasi
+2024-09-12,1671913,franchise fee,Bisnis & Profesional
+2024-09-12,822308,steam motor,Transportasi
+2024-09-12,613309,backpacker,Travel & Liburan
+2024-09-13,485089,makan di restoran,Makanan & Minuman
+2024-09-13,422788,refinancing,Utang & Cicilan
+2024-09-13,1516896,networking,Bisnis & Profesional
+2024-09-13,1391338,service motor,Transportasi
+2024-09-13,1453282,beli tiket kereta,Transportasi
+2024-09-13,1526670,langganan internet,Perumahan & Akomodasi
+2024-09-13,795794,snack kecil,Lain-lain
+2024-09-13,1885122,cicilan mobil,Utang & Cicilan
+2024-09-13,489068,cicilan sofa,Utang & Cicilan
+2024-09-13,834127,moisturizer,Kesehatan & Kebugaran
+2024-09-14,1827110,shampoo,Kesehatan & Kebugaran
+2024-09-14,1577318,fax,Lain-lain
+2024-09-14,504283,pinjaman online,Utang & Cicilan
+2024-09-15,1672102,spidol,Pendidikan
+2024-09-15,1856998,royalty,Bisnis & Profesional
+2024-09-15,1881768,sepatu gunung,Travel & Liburan
+2024-09-16,1048600,minyak goreng,Makanan & Minuman
+2024-09-16,637597,snack minimarket,Makanan & Minuman
+2024-09-16,653583,kamera,Travel & Liburan
+2024-09-16,1233024,penggaris,Pendidikan
+2024-09-17,206959,WOM finance,Utang & Cicilan
+2024-09-17,943475,laptop,Pendidikan
+2024-09-18,1890147,modal usaha,Bisnis & Profesional
+2024-09-18,1445368,fotokopi,Pendidikan
+2024-09-18,982967,beli nasi,Makanan & Minuman
+2024-09-19,1268322,obat sakit kepala,Kesehatan & Kebugaran
+2024-09-19,453762,keperluan rumah,Lain-lain
+2024-09-19,105972,bayar kos,Perumahan & Akomodasi
+2024-09-19,962876,facebook ads,Bisnis & Profesional
+2024-09-19,56811,peralatan hiking,Travel & Liburan
+2024-09-19,467889,cemilan anak,Makanan & Minuman
+2024-09-19,1201398,berlangganan streaming,Belanja & Hiburan
+2024-09-19,266550,makan di restoran,Makanan & Minuman
+2024-09-20,34536,berbagai hal,Lain-lain
+2024-09-20,868525,beli buku pelajaran,Pendidikan
+2024-09-20,1271305,beli es krim,Makanan & Minuman
+2024-09-20,1887216,trademark,Bisnis & Profesional
+2024-09-21,187509,seminar,Pendidikan
+2024-09-21,194565,fax,Lain-lain
+2024-09-21,951079,dana darurat,Tabungan & Investasi
+2024-09-21,1311613,tas travel,Travel & Liburan
+2024-09-21,1159914,camping equipment,Belanja & Hiburan
+2024-09-21,1528600,spa treatment,Kesehatan & Kebugaran
+2024-09-22,586564,conditioner,Kesehatan & Kebugaran
+2024-09-22,271192,kereta bandara,Transportasi
+2024-09-22,819271,asuransi jiwa,Tabungan & Investasi
+2024-09-22,556234,klakson,Transportasi
+2024-09-22,127705,tune up,Transportasi
+2024-09-22,1082024,nasi padang,Makanan & Minuman
+2024-09-23,977576,donasi kesehatan,Donasi & Hadiah
+2024-09-23,784935,moisturizer,Kesehatan & Kebugaran
+2024-09-23,776584,parkir motor,Transportasi
+2024-09-24,1457841,lawyer,Bisnis & Profesional
+2024-09-24,1219550,makanan tradisional,Travel & Liburan
+2024-09-24,721823,bayar gas,Perumahan & Akomodasi
+2024-09-24,30921,freelancer,Bisnis & Profesional
+2024-09-24,1189199,charger portable,Travel & Liburan
+2024-09-24,577550,snack kecil,Lain-lain
+2024-09-24,596072,daging ayam,Makanan & Minuman
+2024-09-25,1729734,bantuan tsunami,Donasi & Hadiah
+2024-09-25,1111698,copyright,Bisnis & Profesional
+2024-09-25,181813,hadiah valentine,Donasi & Hadiah
+2024-09-25,1830104,kaca spion,Transportasi
+2024-09-25,109402,macam-macam,Lain-lain
+2024-09-25,717648,berbagai hal,Lain-lain
+2024-09-26,903490,tagihan kecil,Lain-lain
+2024-09-26,925796,workshop,Pendidikan
+2024-09-26,797299,mandiri finance,Utang & Cicilan
+2024-09-27,531639,travel insurance,Travel & Liburan
+2024-09-27,334372,distributor,Bisnis & Profesional
+2024-09-27,1391601,bonus,Bisnis & Profesional
+2024-09-27,1606923,uang parkir,Lain-lain
+2024-09-27,408207,program sosial,Donasi & Hadiah
+2024-09-27,1229707,angkot,Transportasi
+2024-09-27,723633,asuransi motor,Transportasi
+2024-09-27,918887,sleeping bag,Travel & Liburan
+2024-09-28,1567355,uber,Transportasi
+2024-09-28,1852306,taxi bandara,Transportasi
+2024-09-28,1256100,pesan makanan online,Makanan & Minuman
+2024-09-28,1457706,software,Pendidikan
+2024-09-28,1613429,google ads,Bisnis & Profesional
+2024-09-28,335543,iuran RT,Perumahan & Akomodasi
+2024-09-28,628694,konten kreator,Bisnis & Profesional
+2024-09-28,817703,insektisida,Perumahan & Akomodasi
+2024-09-28,150539,oli mesin,Transportasi
+2024-09-28,1207760,daging ayam,Makanan & Minuman
+2024-09-28,447642,jilid skripsi,Pendidikan
+2024-09-29,130070,bus kota,Transportasi
+2024-09-29,1544939,penginapan,Travel & Liburan
+2024-09-29,1902120,porter bandara,Transportasi
+2024-09-29,806266,escape room,Belanja & Hiburan
+2024-09-29,761324,materai,Pendidikan
+2024-09-29,1592358,cicilan kitchen set,Utang & Cicilan
+2024-09-30,238941,konsultan,Bisnis & Profesional
+2024-09-30,578089,beli pizza,Makanan & Minuman
+2024-09-30,300441,biaya admin,Utang & Cicilan
+2024-09-30,1714558,backpacking,Travel & Liburan
+2024-09-30,1438173,tiket pesawat,Transportasi
+2024-09-30,1289216,crowdfunding sosial,Donasi & Hadiah
+2024-10-01,1747169,penghapus,Pendidikan
+2024-10-01,1497495,bis damri,Transportasi
+2024-10-01,713323,stabilo,Pendidikan
+2024-10-01,786445,pengeluaran lain,Lain-lain
+2024-10-02,1622806,campur-campur,Lain-lain
+2024-10-02,321943,sedekah,Donasi & Hadiah
+2024-10-02,1794881,ETF,Tabungan & Investasi
+2024-10-02,17174,dompet dhuafa,Donasi & Hadiah
+2024-10-02,1358860,kontrak kerja,Bisnis & Profesional
+2024-10-03,1173008,kontrak kerja,Bisnis & Profesional
+2024-10-03,1629540,relawan,Donasi & Hadiah
+2024-10-03,188075,maintenance fee,Perumahan & Akomodasi
+2024-10-03,1474529,kitabisa,Donasi & Hadiah
+2024-10-03,1561855,tanah,Tabungan & Investasi
+2024-10-03,1142568,biaya admin,Lain-lain
+2024-10-03,235666,insektisida,Perumahan & Akomodasi
+2024-10-04,1440351,snack minimarket,Makanan & Minuman
+2024-10-04,760434,fee,Bisnis & Profesional
+2024-10-04,869092,travel adapter,Travel & Liburan
+2024-10-05,446722,renang,Belanja & Hiburan
+2024-10-05,1877813,stapler,Pendidikan
+2024-10-05,1040563,oleh-oleh,Travel & Liburan
+2024-10-05,1296168,parkir mobil,Transportasi
+2024-10-05,288356,travel adapter,Travel & Liburan
+2024-10-05,1563030,hiking gear,Belanja & Hiburan
+2024-10-06,1921899,rental motor,Transportasi
+2024-10-06,698494,rontgen,Kesehatan & Kebugaran
+2024-10-06,483440,cicilan sofa,Utang & Cicilan
+2024-10-06,565123,spidol,Pendidikan
+2024-10-06,1170626,mutual fund,Tabungan & Investasi
+2024-10-06,1339306,materai,Pendidikan
+2024-10-06,751790,notaris,Bisnis & Profesional
+2024-10-06,1233254,dompet dhuafa,Donasi & Hadiah
+2024-10-06,381576,beli emas,Tabungan & Investasi
+2024-10-06,578878,gojek,Transportasi
+2024-10-07,1165477,beli kopi,Makanan & Minuman
+2024-10-07,1207668,netflix,Belanja & Hiburan
+2024-10-07,1218478,belanja iseng,Lain-lain
+2024-10-07,228915,transjakarta,Transportasi
+2024-10-08,640069,cuci motor,Transportasi
+2024-10-08,40950,peralatan hiking,Travel & Liburan
+2024-10-08,610385,masker wajah,Kesehatan & Kebugaran
+2024-10-08,1790905,dana darurat,Tabungan & Investasi
+2024-10-08,872713,keyboard,Pendidikan
+2024-10-08,294124,sikat gigi,Kesehatan & Kebugaran
+2024-10-08,938480,honorarium,Bisnis & Profesional
+2024-10-09,1088445,tiket pesawat,Travel & Liburan
+2024-10-09,1171694,visa,Travel & Liburan
+2024-10-10,704518,makan siang,Makanan & Minuman
+2024-10-10,1260966,kartu kredit,Utang & Cicilan
+2024-10-10,67215,lemari pakaian,Perumahan & Akomodasi
+2024-10-11,1469104,minum jus,Makanan & Minuman
+2024-10-11,958565,uang parkir,Lain-lain
+2024-10-11,472049,bubble tea,Makanan & Minuman
+2024-10-11,180299,periksa dokter,Kesehatan & Kebugaran
+2024-10-11,743623,bantuan korban banjir,Donasi & Hadiah
+2024-10-11,946330,tabungan liburan,Tabungan & Investasi
+2024-10-11,1655397,course online,Pendidikan
+2024-10-12,454287,copyright,Bisnis & Profesional
+2024-10-12,59344,rontgen,Kesehatan & Kebugaran
+2024-10-12,1215786,miscellaneous,Lain-lain
+2024-10-12,1763453,angkot,Transportasi
+2024-10-12,778807,tunjangan,Bisnis & Profesional
+2024-10-13,460647,cemilan anak,Makanan & Minuman
+2024-10-13,1286450,lazismu,Donasi & Hadiah
+2024-10-13,1937052,bayar listrik,Perumahan & Akomodasi
+2024-10-13,77665,kredit multiguna,Utang & Cicilan
+2024-10-13,721777,medical check up,Kesehatan & Kebugaran
+2024-10-13,169069,leasing mobil,Utang & Cicilan
+2024-10-14,1385155,kuliner khas,Travel & Liburan
+2024-10-14,396969,medical check up,Kesehatan & Kebugaran
+2024-10-14,1791042,service motor,Transportasi
+2024-10-14,1947459,uang parkir,Lain-lain
+2024-10-14,755405,training,Bisnis & Profesional
+2024-10-15,650445,main game,Belanja & Hiburan
+2024-10-15,869015,hard disk,Pendidikan
+2024-10-15,1278950,tiket gunung,Travel & Liburan
+2024-10-15,1600722,pinjaman online,Utang & Cicilan
+2024-10-16,626273,langganan internet,Perumahan & Akomodasi
+2024-10-16,1629170,asuransi kesehatan,Tabungan & Investasi
+2024-10-16,1015278,spotify premium,Belanja & Hiburan
+2024-10-16,1349072,materai,Pendidikan
+2024-10-16,185757,cargo,Lain-lain
+2024-10-16,1475331,jaket,Belanja & Hiburan
+2024-10-17,416674,cat tembok,Perumahan & Akomodasi
+2024-10-17,947047,perbaikan AC,Perumahan & Akomodasi
+2024-10-17,270104,WOM finance,Utang & Cicilan
+2024-10-17,573918,shampoo,Kesehatan & Kebugaran
+2024-10-17,364189,bantuan sosial,Donasi & Hadiah
+2024-10-17,76390,jaket,Belanja & Hiburan
+2024-10-17,1456980,investasi pendidikan,Tabungan & Investasi
+2024-10-17,1548869,mega finance,Utang & Cicilan
+2024-10-18,928730,cicilan kitchen set,Utang & Cicilan
+2024-10-18,495739,snack kecil,Lain-lain
+2024-10-18,1783158,emergency,Lain-lain
+2024-10-18,109125,kue ulang tahun,Makanan & Minuman
+2024-10-18,1455209,dompet dhuafa,Donasi & Hadiah
+2024-10-18,532185,hair treatment,Kesehatan & Kebugaran
+2024-10-18,1302361,kredit konsumtif,Utang & Cicilan
+2024-10-19,1101244,setor tabungan,Tabungan & Investasi
+2024-10-19,1649082,beli vitamin,Kesehatan & Kebugaran
+2024-10-20,1652855,hair treatment,Kesehatan & Kebugaran
+2024-10-20,1686773,sikat gigi,Kesehatan & Kebugaran
+2024-10-20,1055775,training,Bisnis & Profesional
+2024-10-20,125508,administrasi,Lain-lain
+2024-10-20,270963,pinjaman online,Utang & Cicilan
+2024-10-20,183748,tour package,Travel & Liburan
+2024-10-20,1096766,karaoke,Belanja & Hiburan
+2024-10-21,915104,konsultasi dokter,Kesehatan & Kebugaran
+2024-10-21,103523,print,Lain-lain
+2024-10-21,1417846,karpet lantai,Perumahan & Akomodasi
+2024-10-21,1782961,investasi jangka pendek,Tabungan & Investasi
+2024-10-21,1036560,mutual fund,Tabungan & Investasi
+2024-10-22,1479271,pengeluaran kecil,Lain-lain
+2024-10-22,987930,cicilan laptop,Utang & Cicilan
+2024-10-22,664722,metro mini,Transportasi
+2024-10-22,745548,beli roti,Makanan & Minuman
+2024-10-22,177486,penginapan,Travel & Liburan
+2024-10-22,1781151,beli donat,Makanan & Minuman
+2024-10-22,362845,minuman ringan,Lain-lain
+2024-10-23,1822147,service kulkas,Perumahan & Akomodasi
+2024-10-23,48739,karpet lantai,Perumahan & Akomodasi
+2024-10-23,1277060,designer,Bisnis & Profesional
+2024-10-23,282220,peer to peer lending,Tabungan & Investasi
+2024-10-23,326502,martabak,Makanan & Minuman
+2024-10-24,1497771,kaos kaki,Belanja & Hiburan
+2024-10-24,898376,stapler,Pendidikan
+2024-10-24,1936879,jasa profesional,Bisnis & Profesional
+2024-10-24,1055931,ban motor,Transportasi
+2024-10-24,252898,beli obat,Kesehatan & Kebugaran
+2024-10-24,1300369,dompet,Belanja & Hiburan
+2024-10-24,843190,coffee shop,Makanan & Minuman
+2024-10-25,578413,adventure tour,Travel & Liburan
+2024-10-25,1556003,donasi masjid,Donasi & Hadiah
+2024-10-25,1947050,komik,Belanja & Hiburan
+2024-10-25,789104,passport,Travel & Liburan
+2024-10-25,1274584,impulse buying,Lain-lain
+2024-10-25,62248,biaya admin,Lain-lain
+2024-10-25,51214,yoga class,Kesehatan & Kebugaran
+2024-10-25,151757,lisensi,Bisnis & Profesional
+2024-10-25,1468904,supplier,Bisnis & Profesional
+2024-10-25,128338,uang rokok,Lain-lain
+2024-10-26,1342709,aneka ragam,Lain-lain
+2024-10-26,777057,oto finance,Utang & Cicilan
+2024-10-26,1602955,snack kecil,Lain-lain
+2024-10-27,1861926,tunjangan,Bisnis & Profesional
+2024-10-27,956527,crowdfunding,Tabungan & Investasi
+2024-10-27,1664076,beli vitamin,Kesehatan & Kebugaran
+2024-10-27,172916,pelatihan,Pendidikan
+2024-10-27,266476,tirai jendela,Perumahan & Akomodasi
+2024-10-27,938065,franchise fee,Bisnis & Profesional
+2024-10-28,1455782,gunting rambut,Kesehatan & Kebugaran
+2024-10-28,1274672,leasing motor,Utang & Cicilan
+2024-10-28,1533469,metro mini,Transportasi
+2024-10-28,294784,kredit tanpa agunan,Utang & Cicilan
+2024-10-28,1032797,city tour,Travel & Liburan
+2024-10-28,79084,kaos kaki,Belanja & Hiburan
+2024-10-28,1344619,kartu kredit,Utang & Cicilan
+2024-10-28,111791,donasi PMI,Donasi & Hadiah
+2024-10-28,523356,biaya bandara,Transportasi
+2024-10-28,1559925,insektisida,Perumahan & Akomodasi
+2024-10-29,51010,pengeluaran kecil,Lain-lain
+2024-10-29,373343,materai,Pendidikan
+2024-10-29,72751,masker wajah,Kesehatan & Kebugaran
+2024-10-29,1984731,pelunasan,Utang & Cicilan
+2024-10-29,1862621,asuransi jiwa,Tabungan & Investasi
+2024-10-30,110025,bowling,Belanja & Hiburan
+2024-10-30,793000,medical check up,Kesehatan & Kebugaran
+2024-10-30,1431023,face wash,Kesehatan & Kebugaran
+2024-10-31,182737,donasi online,Donasi & Hadiah
+2024-10-31,1523536,tinta printer,Pendidikan
+2024-11-01,1089843,medical check up,Kesehatan & Kebugaran
+2024-11-01,1831303,saham,Tabungan & Investasi
+2024-11-01,1866263,manicure,Kesehatan & Kebugaran
+2024-11-01,107826,workshop,Pendidikan
+2024-11-02,685262,sarapan,Makanan & Minuman
+2024-11-02,1452692,izin usaha,Bisnis & Profesional
+2024-11-02,70183,underwear,Belanja & Hiburan
+2024-11-02,1898261,karpet lantai,Perumahan & Akomodasi
+2024-11-02,345325,MLM,Tabungan & Investasi
+2024-11-02,53737,tinta printer,Pendidikan
+2024-11-02,560222,pelunasan,Utang & Cicilan
+2024-11-03,1991587,kertas foto,Pendidikan
+2024-11-03,1843142,coating motor,Transportasi
+2024-11-03,684317,souvenir,Travel & Liburan
+2024-11-03,995990,gaji,Bisnis & Profesional
+2024-11-03,662148,tabungan liburan,Tabungan & Investasi
+2024-11-03,673264,asuransi kesehatan,Tabungan & Investasi
+2024-11-03,325442,relawan,Donasi & Hadiah
+2024-11-03,1902124,martabak,Makanan & Minuman
+2024-11-04,70327,kredit kendaraan,Utang & Cicilan
+2024-11-04,505043,bayar air,Perumahan & Akomodasi
+2024-11-04,311047,escape room,Belanja & Hiburan
+2024-11-04,1277817,serum wajah,Kesehatan & Kebugaran
+2024-11-04,1394327,unit link,Tabungan & Investasi
+2024-11-04,1158769,BCA finance,Utang & Cicilan
+2024-11-04,14584,materai,Pendidikan
+2024-11-04,853428,sewa apartemen,Perumahan & Akomodasi
+2024-11-04,218518,bakti sosial,Donasi & Hadiah
+2024-11-05,1114269,rumah zakat,Donasi & Hadiah
+2024-11-05,1692553,biaya admin,Utang & Cicilan
+2024-11-05,28982,crowdfunding sosial,Donasi & Hadiah
+2024-11-05,200748,rental mobil,Transportasi
+2024-11-05,335309,ujian,Pendidikan
+2024-11-05,470330,daging ayam,Makanan & Minuman
+2024-11-05,639007,serum wajah,Kesehatan & Kebugaran
+2024-11-05,1385945,oleh-oleh,Travel & Liburan
+2024-11-06,122801,tenis,Belanja & Hiburan
+2024-11-06,1386316,personal trainer,Kesehatan & Kebugaran
+2024-11-06,1102473,makan siang,Makanan & Minuman
+2024-11-06,1035707,macam-macam,Lain-lain
+2024-11-06,63673,escape room,Belanja & Hiburan
+2024-11-06,496274,hal tak terduga,Lain-lain
+2024-11-06,945092,badminton,Belanja & Hiburan
+2024-11-07,253410,beli lampu,Perumahan & Akomodasi
+2024-11-07,1981935,permen,Lain-lain
+2024-11-07,681668,angkot,Transportasi
+2024-11-07,701709,beli susu,Makanan & Minuman
+2024-11-07,1270217,fax,Lain-lain
+2024-11-07,438798,souvenir,Travel & Liburan
+2024-11-07,354147,bowling,Belanja & Hiburan
+2024-11-07,192249,bisnis sampingan,Tabungan & Investasi
+2024-11-07,551188,cicilan kecil,Lain-lain
+2024-11-07,662866,cargo,Lain-lain
+2024-11-08,131312,tzu chi,Donasi & Hadiah
+2024-11-08,787879,bayar wifi,Perumahan & Akomodasi
+2024-11-08,1588836,fax,Lain-lain
+2024-11-08,1352924,kurir,Lain-lain
+2024-11-08,1297309,taxi bandara,Transportasi
+2024-11-08,361052,lemari pakaian,Perumahan & Akomodasi
+2024-11-09,258033,tas ransel,Belanja & Hiburan
+2024-11-09,1732725,bus kota,Transportasi
+2024-11-09,324595,tagihan kecil,Lain-lain
+2024-11-09,791740,pelunasan,Utang & Cicilan
+2024-11-09,205363,bakti sosial,Donasi & Hadiah
+2024-11-10,510144,biaya gym,Kesehatan & Kebugaran
+2024-11-10,784474,MLM,Tabungan & Investasi
+2024-11-11,833927,beli donat,Makanan & Minuman
+2024-11-11,1601659,cicilan elektronik,Utang & Cicilan
+2024-11-11,1493642,uang jajan,Lain-lain
+2024-11-11,1754549,kredit plus,Utang & Cicilan
+2024-11-11,1717092,minum jus,Makanan & Minuman
+2024-11-12,689055,pajak,Bisnis & Profesional
+2024-11-12,17804,binder,Pendidikan
+2024-11-12,721664,grab car,Transportasi
+2024-11-12,264588,family trip,Travel & Liburan
+2024-11-13,314023,vitamin C,Kesehatan & Kebugaran
+2024-11-13,469670,uang saku,Lain-lain
+2024-11-13,1715030,gopro,Travel & Liburan
+2024-11-13,1136766,flashdisk,Pendidikan
+2024-11-13,1179038,cicilan sofa,Utang & Cicilan
+2024-11-13,1893039,sponsor acara,Donasi & Hadiah
+2024-11-13,1058766,hadiah lebaran,Donasi & Hadiah
+2024-11-14,1164916,workshop,Pendidikan
+2024-11-15,1649733,tablet,Pendidikan
+2024-11-15,1595676,nasi gudeg,Makanan & Minuman
+2024-11-15,677934,google ads,Bisnis & Profesional
+2024-11-15,1899955,sedekah,Donasi & Hadiah
+2024-11-15,478690,SIUP,Bisnis & Profesional
+2024-11-15,1592641,tenda,Travel & Liburan
+2024-11-16,1049938,obat flu,Kesehatan & Kebugaran
+2024-11-16,1184699,investasi reksadana,Tabungan & Investasi
+2024-11-16,1287006,bantuan tsunami,Donasi & Hadiah
+2024-11-16,292580,correction pen,Pendidikan
+2024-11-16,32190,resort,Travel & Liburan
+2024-11-16,1276235,sepatu gunung,Travel & Liburan
+2024-11-16,171670,bantal guling,Perumahan & Akomodasi
+2024-11-17,835023,personal trainer,Kesehatan & Kebugaran
+2024-11-17,1966911,cargo,Lain-lain
+2024-11-17,236349,vacuum cleaner,Perumahan & Akomodasi
+2024-11-17,237423,hadiah ulang tahun,Donasi & Hadiah
+2024-11-17,275146,bayar listrik,Perumahan & Akomodasi
+2024-11-19,143807,warung franchise,Tabungan & Investasi
+2024-11-19,1409517,topi,Belanja & Hiburan
+2024-11-19,1638558,berbagai hal,Lain-lain
+2024-11-19,228521,modal usaha,Tabungan & Investasi
+2024-11-19,1088187,bisnis sampingan,Tabungan & Investasi
+2024-11-19,531330,refinancing,Utang & Cicilan
+2024-11-19,44255,oleh-oleh,Travel & Liburan
+2024-11-19,574290,designer,Bisnis & Profesional
+2024-11-19,413122,beli susu,Makanan & Minuman
+2024-11-19,451206,kue ulang tahun,Makanan & Minuman
+2024-11-20,1714192,oto finance,Utang & Cicilan
+2024-11-20,1866093,training,Bisnis & Profesional
+2024-11-20,948664,supplier,Bisnis & Profesional
+2024-11-20,1180427,cash advance,Utang & Cicilan
+2024-11-20,1810257,bis damri,Transportasi
+2024-11-20,1459501,klakson,Transportasi
+2024-11-20,1591909,family trip,Travel & Liburan
+2024-11-20,1211161,go-kart,Belanja & Hiburan
+2024-11-20,1670865,badminton,Belanja & Hiburan
+2024-11-20,787059,fotokopi,Pendidikan
+2024-11-21,1483970,keperluan rumah,Lain-lain
+2024-11-21,494918,asuransi kredit,Utang & Cicilan
+2024-11-21,1077810,kitabisa,Donasi & Hadiah
+2024-11-21,1337047,konsultan,Bisnis & Profesional
+2024-11-21,146586,trademark,Bisnis & Profesional
+2024-11-22,1664645,lemari pakaian,Perumahan & Akomodasi
+2024-11-22,261947,sunscreen,Kesehatan & Kebugaran
+2024-11-22,641167,asuransi kesehatan,Tabungan & Investasi
+2024-11-22,576797,cicilan laptop,Utang & Cicilan
+2024-11-22,1983196,beli celana,Belanja & Hiburan
+2024-11-23,1517640,promosi,Bisnis & Profesional
+2024-11-23,1553736,isi bensin,Transportasi
+2024-11-23,1836874,cicilan kitchen set,Utang & Cicilan
+2024-11-24,1803796,marketing,Bisnis & Profesional
+2024-11-24,1842646,spa treatment,Kesehatan & Kebugaran
+2024-11-24,814240,crypto,Tabungan & Investasi
+2024-11-25,932276,cicilan mesin cuci,Utang & Cicilan
+2024-11-25,982798,tiket konser,Belanja & Hiburan
+2024-11-25,1031469,gunting rambut,Kesehatan & Kebugaran
+2024-11-25,382101,warung franchise,Tabungan & Investasi
+2024-11-25,883003,kamera,Travel & Liburan
+2024-11-25,1102231,service charge,Perumahan & Akomodasi
+2024-11-25,1325749,oli mesin,Transportasi
+2024-11-25,760405,rendang,Makanan & Minuman
+2024-11-26,321580,freelancer,Bisnis & Profesional
+2024-11-26,1600460,campur-campur,Lain-lain
+2024-11-26,1627484,sedekah,Donasi & Hadiah
+2024-11-26,1532223,cuci motor,Transportasi
+2024-11-26,1152469,snack minimarket,Makanan & Minuman
+2024-11-27,314774,makan malam,Makanan & Minuman
+2024-11-27,1333686,pengharum ruangan,Perumahan & Akomodasi
+2024-11-27,1186000,bantuan sosial,Donasi & Hadiah
+2024-11-27,1907457,fotokopi,Lain-lain
+2024-11-27,1642312,kaos kaki,Belanja & Hiburan
+2024-11-28,449847,jaket riding,Transportasi
+2024-11-28,1117658,investasi jangka pendek,Tabungan & Investasi
+2024-11-28,183167,kitabisa,Donasi & Hadiah
+2024-11-28,969893,balancing,Transportasi
+2024-11-28,1107005,trademark,Bisnis & Profesional
+2024-11-28,617048,setor tabungan,Tabungan & Investasi
+2024-11-28,1380982,jam tangan,Belanja & Hiburan
+2024-11-28,901649,biaya admin,Utang & Cicilan
+2024-11-28,1149803,ember plastik,Perumahan & Akomodasi
+2024-11-28,819880,kontrak kerja,Bisnis & Profesional
+2024-11-29,243980,sunscreen,Kesehatan & Kebugaran
+2024-11-29,965825,go-kart,Belanja & Hiburan
+2024-11-29,1812413,software,Pendidikan
+2024-11-29,1831406,cicilan springbed,Utang & Cicilan
+2024-11-29,1398562,sprei kasur,Perumahan & Akomodasi
+2024-11-30,588546,map plastik,Pendidikan
+2024-11-30,1401399,mandiri finance,Utang & Cicilan
+2024-11-30,1349930,mie ayam,Makanan & Minuman
+2024-11-30,1309358,boarding pass,Transportasi
+2024-11-30,1602978,cicilan mobil,Utang & Cicilan
+2024-12-01,1048092,bayar kos,Perumahan & Akomodasi
+2024-12-01,647768,konten kreator,Bisnis & Profesional
+2024-12-01,345791,donasi gereja,Donasi & Hadiah
+2024-12-01,1729149,parkir mobil,Transportasi
+2024-12-01,471420,investasi jangka panjang,Tabungan & Investasi
+2024-12-01,811944,cicilan laptop,Utang & Cicilan
+2024-12-01,181997,jaket,Belanja & Hiburan
+2024-12-02,801937,franchise fee,Bisnis & Profesional
+2024-12-02,1478943,coating motor,Transportasi
+2024-12-02,1309023,laptop,Pendidikan
+2024-12-02,1433815,sayur mayur,Makanan & Minuman
+2024-12-02,970118,bakti sosial,Donasi & Hadiah
+2024-12-03,866528,iklan,Bisnis & Profesional
+2024-12-03,1199935,pedicure,Kesehatan & Kebugaran
+2024-12-03,281346,kredit plus,Utang & Cicilan
+2024-12-03,1310193,pecel lele,Makanan & Minuman
+2024-12-03,1567821,novel terbaru,Belanja & Hiburan
+2024-12-04,504131,deterjen,Perumahan & Akomodasi
+2024-12-04,1396224,donasi gereja,Donasi & Hadiah
+2024-12-04,876941,koper,Travel & Liburan
+2024-12-04,1014813,campur-campur,Lain-lain
+2024-12-04,1027375,tablet,Pendidikan
+2024-12-04,963229,bayar kos,Perumahan & Akomodasi
+2024-12-05,214110,setrika baju,Perumahan & Akomodasi
+2024-12-05,1662794,forex,Tabungan & Investasi
+2024-12-05,1981105,bayar listrik,Perumahan & Akomodasi
+2024-12-05,1696238,hadiah lebaran,Donasi & Hadiah
+2024-12-05,108370,pengeluaran spontan,Lain-lain
+2024-12-05,158612,makan di restoran,Makanan & Minuman
+2024-12-05,938983,cicilan springbed,Utang & Cicilan
+2024-12-05,1678995,bisnis sampingan,Tabungan & Investasi
+2024-12-05,708931,crowdfunding sosial,Donasi & Hadiah
+2024-12-05,436630,penghapus,Pendidikan
+2024-12-06,564532,rumah investasi,Tabungan & Investasi
+2024-12-06,449193,nonton bioskop,Belanja & Hiburan
+2024-12-06,1702224,hand sanitizer,Kesehatan & Kebugaran
+2024-12-07,1075561,bus kota,Transportasi
+2024-12-07,963374,leasing mobil,Utang & Cicilan
+2024-12-07,1566100,cicilan AC,Utang & Cicilan
+2024-12-07,1327065,pesan makanan online,Makanan & Minuman
+2024-12-07,1783531,grab car,Transportasi
+2024-12-08,203193,lemari pakaian,Perumahan & Akomodasi
+2024-12-08,95843,CSR perusahaan,Donasi & Hadiah
+2024-12-08,1698812,ember plastik,Perumahan & Akomodasi
+2024-12-08,231158,dompet,Belanja & Hiburan
+2024-12-09,1415954,beli lampu,Perumahan & Akomodasi
+2024-12-09,561190,cicilan motor,Utang & Cicilan
+2024-12-09,1950716,cicilan kulkas,Utang & Cicilan
+2024-12-09,1084480,lain-lain,Lain-lain
+2024-12-09,1917819,mie ayam,Makanan & Minuman
+2024-12-10,1678825,upah,Bisnis & Profesional
+2024-12-10,1121397,visa,Travel & Liburan
+2024-12-10,1203397,alat kebersihan,Perumahan & Akomodasi
+2024-12-10,1192886,main game,Belanja & Hiburan
+2024-12-11,1735645,infaq,Donasi & Hadiah
+2024-12-11,1419321,badminton,Belanja & Hiburan
+2024-12-11,1522410,escape room,Belanja & Hiburan
+2024-12-11,592929,novel terbaru,Belanja & Hiburan
+2024-12-11,723762,forex,Tabungan & Investasi
+2024-12-11,848073,scan,Lain-lain
+2024-12-11,1754989,investasi pendidikan,Tabungan & Investasi
+2024-12-11,710796,adopsi anak,Donasi & Hadiah
+2024-12-11,735453,investasi pendidikan,Tabungan & Investasi
+2024-12-12,1166657,bakso,Makanan & Minuman
+2024-12-12,114818,insentif,Bisnis & Profesional
+2024-12-12,1466835,dokumentasi,Travel & Liburan
+2024-12-12,130357,bahan baku,Bisnis & Profesional
+2024-12-12,1926333,trademark,Bisnis & Profesional
+2024-12-12,111380,travel adapter,Travel & Liburan
+2024-12-12,1775058,sikat gigi,Kesehatan & Kebugaran
+2024-12-12,316570,adopsi anak,Donasi & Hadiah
+2024-12-13,406793,beli lampu,Perumahan & Akomodasi
+2024-12-13,633140,balancing,Transportasi
+2024-12-13,1646921,upah,Bisnis & Profesional
+2024-12-14,534485,beli tiket kereta,Transportasi
+2024-12-14,461919,parkir mobil,Transportasi
+2024-12-15,902891,unit link,Tabungan & Investasi
+2024-12-15,1363137,denda telat,Utang & Cicilan
+2024-12-16,1422399,sepatu gunung,Travel & Liburan
+2024-12-16,845491,service motor,Transportasi
+2024-12-16,1958279,sapu dan pel,Perumahan & Akomodasi
+2024-12-16,500251,city tour,Travel & Liburan
+2024-12-16,65313,boarding pass,Transportasi
+2024-12-17,1793687,conditioner,Kesehatan & Kebugaran
+2024-12-17,1425064,marketing,Bisnis & Profesional
+2024-12-17,106521,networking,Bisnis & Profesional
+2024-12-17,1460488,kipas angin,Perumahan & Akomodasi
+2024-12-17,1050996,jilid skripsi,Pendidikan
+2024-12-17,669541,massage,Kesehatan & Kebugaran
+2024-12-17,988289,tiket pesawat,Travel & Liburan
+2024-12-17,1270916,pilates,Kesehatan & Kebugaran
+2024-12-17,42057,oleh-oleh,Travel & Liburan
+2024-12-17,21948,e-book,Belanja & Hiburan
+2024-12-17,1376368,dana darurat,Tabungan & Investasi
+2024-12-17,1600907,arcade games,Belanja & Hiburan
+2024-12-18,1697670,donasi yatim piatu,Donasi & Hadiah
+2024-12-18,698719,tabungan rumah,Tabungan & Investasi
+2024-12-18,808300,kost-kostan,Tabungan & Investasi
+2024-12-18,1904239,creambath,Kesehatan & Kebugaran
+2024-12-18,1548047,permen,Lain-lain
+2024-12-18,55765,rumah zakat,Donasi & Hadiah
+2024-12-18,1069589,denda telat,Utang & Cicilan
+2024-12-18,1892874,beli buah,Makanan & Minuman
+2024-12-18,1575200,rental mobil,Transportasi
+2024-12-19,1600230,forex,Tabungan & Investasi
+2024-12-19,1865534,cicilan kitchen set,Utang & Cicilan
+2024-12-19,559477,pecel lele,Makanan & Minuman
+2024-12-19,939440,correction pen,Pendidikan
+2024-12-19,741665,materai,Pendidikan
+2024-12-19,1999115,hand sanitizer,Kesehatan & Kebugaran
+2024-12-20,1844618,kontrak kerja,Bisnis & Profesional
+2024-12-20,1350122,upah,Bisnis & Profesional
+2024-12-20,1728568,asuransi jiwa,Tabungan & Investasi
+2024-12-21,1158427,miscellaneous,Lain-lain
+2024-12-21,49780,angsuran bank,Utang & Cicilan
+2024-12-21,48635,cicilan TV,Utang & Cicilan
+2024-12-22,479576,spidol,Pendidikan
+2024-12-22,582397,tablet,Pendidikan
+2024-12-22,1029714,adventure tour,Travel & Liburan
+2024-12-23,1714256,course online,Pendidikan
+2024-12-23,462617,biaya provisi,Utang & Cicilan
+2024-12-23,1819871,cicilan kecil,Lain-lain
+2024-12-24,148903,sabun mandi,Kesehatan & Kebugaran
+2024-12-24,1761687,print tugas,Pendidikan
+2024-12-24,450304,paket honeymoon,Travel & Liburan
+2024-12-25,1332016,biaya admin,Lain-lain
+2024-12-25,1256701,tiket gunung,Travel & Liburan
+2024-12-25,1778700,cicilan springbed,Utang & Cicilan
+2024-12-25,310255,makan di restoran,Makanan & Minuman
+2024-12-26,573152,jajanan,Lain-lain
+2024-12-26,403735,conditioner,Kesehatan & Kebugaran
+2024-12-26,1069121,ember plastik,Perumahan & Akomodasi
+2024-12-26,655972,villa,Travel & Liburan
+2024-12-26,1515606,ganti oli,Transportasi
+2024-12-26,366816,oto finance,Utang & Cicilan
+2024-12-26,303010,crowdfunding sosial,Donasi & Hadiah
+2024-12-26,1227233,tas travel,Travel & Liburan
+2024-12-26,685849,webcam,Pendidikan
+2024-12-26,639024,aplikasi,Pendidikan
+2024-12-26,292203,isi bensin,Transportasi
+2024-12-26,91282,pasta gigi,Kesehatan & Kebugaran
+2024-12-27,580784,adopsi anak,Donasi & Hadiah
+2024-12-27,595047,beli kopi,Makanan & Minuman
+2024-12-27,1431538,paintball,Belanja & Hiburan
+2024-12-27,133815,komik,Belanja & Hiburan
+2024-12-28,891962,networking,Bisnis & Profesional
+2024-12-28,1812250,karpet lantai,Perumahan & Akomodasi
+2024-12-28,581678,obat sakit kepala,Kesehatan & Kebugaran
+2024-12-28,1184929,balancing,Transportasi
+2024-12-28,593167,sewa rumah,Perumahan & Akomodasi
+2024-12-28,1930273,portfolio management,Tabungan & Investasi
+2024-12-28,1687437,dompet dhuafa,Donasi & Hadiah
+2024-12-29,591486,majalah,Belanja & Hiburan
+2024-12-29,1289878,steam motor,Transportasi
+2024-12-29,454365,asuransi kendaraan,Tabungan & Investasi
+2024-12-29,565969,gado-gado,Makanan & Minuman
+2024-12-29,1524644,investasi pendidikan,Tabungan & Investasi
+2024-12-29,884015,pulpen,Pendidikan
+2024-12-30,910650,kamera,Travel & Liburan
+2024-12-30,1475791,website,Bisnis & Profesional
+2024-12-30,560720,ganti oli,Transportasi
+2024-12-30,616663,sayur mayur,Makanan & Minuman
+2024-12-31,1240117,hand sanitizer,Kesehatan & Kebugaran
+2025-01-01,839070,insektisida,Perumahan & Akomodasi
+2025-01-01,624396,es krim,Lain-lain
+2025-01-01,1106833,kasur baru,Perumahan & Akomodasi
+2025-01-01,1861444,tenis,Belanja & Hiburan
+2025-01-01,246569,gado-gado,Makanan & Minuman
+2025-01-02,583565,beli susu,Makanan & Minuman
+2025-01-02,759229,jam tangan,Belanja & Hiburan
+2025-01-02,291334,coffee shop,Makanan & Minuman
+2025-01-02,1480247,zakat,Donasi & Hadiah
+2025-01-02,1813952,zakat,Donasi & Hadiah
+2025-01-02,1297073,cicilan hp,Utang & Cicilan
+2025-01-02,1161939,escape room,Belanja & Hiburan
+2025-01-02,1601923,beli donat,Makanan & Minuman
+2025-01-02,1820461,ganti kunci,Perumahan & Akomodasi
+2025-01-02,845150,correction pen,Pendidikan
+2025-01-02,709415,jaket,Belanja & Hiburan
+2025-01-02,1424620,koran,Belanja & Hiburan
+2025-01-02,237082,keperluan mendadak,Lain-lain
+2025-01-03,1807208,coffee shop,Makanan & Minuman
+2025-01-03,609967,peer to peer lending,Tabungan & Investasi
+2025-01-03,422590,makan malam,Makanan & Minuman
+2025-01-03,356830,dana darurat,Tabungan & Investasi
+2025-01-04,15895,iuran RT,Perumahan & Akomodasi
+2025-01-04,784812,berlangganan streaming,Belanja & Hiburan
+2025-01-04,1997940,topi,Belanja & Hiburan
+2025-01-04,1174144,webcam,Pendidikan
+2025-01-04,1452650,scan,Lain-lain
+2025-01-05,1482594,hadiah lebaran,Donasi & Hadiah
+2025-01-05,1488333,NPWP,Bisnis & Profesional
+2025-01-05,1316577,bakti sosial,Donasi & Hadiah
+2025-01-05,233702,makanan tradisional,Travel & Liburan
+2025-01-05,1776012,kipas angin,Perumahan & Akomodasi
+2025-01-05,240318,ember plastik,Perumahan & Akomodasi
+2025-01-05,1191095,program sosial,Donasi & Hadiah
+2025-01-05,310312,gula pasir,Makanan & Minuman
+2025-01-05,1114104,tagihan kecil,Lain-lain
+2025-01-06,1146827,sofa ruang tamu,Perumahan & Akomodasi
+2025-01-06,159207,peralatan hiking,Travel & Liburan
+2025-01-06,1097481,tagihan kecil,Lain-lain
+2025-01-06,1488271,pengharum ruangan,Perumahan & Akomodasi
+2025-01-06,1221445,insektisida,Perumahan & Akomodasi
+2025-01-06,1870891,oli mesin,Transportasi
+2025-01-06,1126789,iklan,Bisnis & Profesional
+2025-01-07,340516,backpacking,Travel & Liburan
+2025-01-07,1472198,mutual fund,Tabungan & Investasi
+2025-01-07,808114,beli es krim,Makanan & Minuman
+2025-01-07,1047183,ETF,Tabungan & Investasi
+2025-01-07,262915,ujian,Pendidikan
+2025-01-07,1497303,koran,Belanja & Hiburan
+2025-01-08,750056,kereta bandara,Transportasi
+2025-01-08,445562,mi instan,Makanan & Minuman
+2025-01-08,194023,aneka ragam,Lain-lain
+2025-01-08,1482523,sofa ruang tamu,Perumahan & Akomodasi
+2025-01-08,358662,kalkulator,Pendidikan
+2025-01-08,269885,client meeting,Bisnis & Profesional
+2025-01-09,1920721,visa,Travel & Liburan
+2025-01-09,1268456,transjakarta,Transportasi
+2025-01-09,1874480,tanah,Tabungan & Investasi
+2025-01-09,1432333,donasi pendidikan,Donasi & Hadiah
+2025-01-09,331563,kost-kostan,Tabungan & Investasi
+2025-01-09,677637,alat tulis,Pendidikan
+2025-01-09,173730,tenda,Travel & Liburan
+2025-01-09,90719,oto finance,Utang & Cicilan
+2025-01-09,1364316,jilid skripsi,Pendidikan
+2025-01-09,1509341,WOM finance,Utang & Cicilan
+2025-01-10,1367227,reseller,Tabungan & Investasi
+2025-01-10,1598844,penginapan,Travel & Liburan
+2025-01-10,1632217,cicilan motor,Utang & Cicilan
+2025-01-10,493624,bantuan sosial,Donasi & Hadiah
+2025-01-10,1196496,sarapan,Makanan & Minuman
+2025-01-10,393236,tagihan kecil,Lain-lain
+2025-01-10,61413,tinta printer,Pendidikan
+2025-01-11,1208974,bayar cleaning service,Perumahan & Akomodasi
+2025-01-11,1553641,relawan,Donasi & Hadiah
+2025-01-11,1358496,beli baju,Belanja & Hiburan
+2025-01-11,1031813,guide lokal,Travel & Liburan
+2025-01-11,802326,biaya bandara,Transportasi
+2025-01-11,249585,beli es krim,Makanan & Minuman
+2025-01-12,1278490,spooring,Transportasi
+2025-01-12,1118423,adira finance,Utang & Cicilan
+2025-01-12,1356963,main game,Belanja & Hiburan
+2025-01-12,277149,adira finance,Utang & Cicilan
+2025-01-12,1595568,deposito,Tabungan & Investasi
+2025-01-12,915386,hadiah natal,Donasi & Hadiah
+2025-01-12,1370049,lain-lain,Lain-lain
+2025-01-13,315575,fundraising,Donasi & Hadiah
+2025-01-13,1407125,beli vitamin,Kesehatan & Kebugaran
+2025-01-13,1792439,handuk mandi,Perumahan & Akomodasi
+2025-01-13,364367,webinar,Pendidikan
+2025-01-14,1605304,laptop,Pendidikan
+2025-01-14,227683,souvenir,Travel & Liburan
+2025-01-14,91245,klakson,Transportasi
+2025-01-14,666072,konsultan,Bisnis & Profesional
+2025-01-14,1427320,pengeluaran spontan,Lain-lain
+2025-01-15,993758,service kulkas,Perumahan & Akomodasi
+2025-01-15,908008,financial planning,Tabungan & Investasi
+2025-01-15,583702,sabun mandi,Kesehatan & Kebugaran
+2025-01-16,130789,klakson,Transportasi
+2025-01-16,1222964,pinjaman online,Utang & Cicilan
+2025-01-16,940546,mega finance,Utang & Cicilan
+2025-01-16,591425,amplop,Pendidikan
+2025-01-16,1024691,laptop,Pendidikan
+2025-01-17,1637898,lampu motor,Transportasi
+2025-01-17,951835,leasing mobil,Utang & Cicilan
+2025-01-17,1974117,webcam,Pendidikan
+2025-01-17,1664875,bubble tea,Makanan & Minuman
+2025-01-17,240660,parkir motor,Transportasi
+2025-01-17,1018547,city tour,Travel & Liburan
+2025-01-17,1921891,lemari pakaian,Perumahan & Akomodasi
+2025-01-18,939400,visa,Travel & Liburan
+2025-01-18,182752,main futsal,Belanja & Hiburan
+2025-01-18,903297,e-book,Belanja & Hiburan
+2025-01-19,164376,ETF,Tabungan & Investasi
+2025-01-19,1659086,alat kebersihan,Perumahan & Akomodasi
+2025-01-19,1892221,networking,Bisnis & Profesional
+2025-01-19,863701,bayar kos,Perumahan & Akomodasi
+2025-01-19,391388,gunting rambut,Kesehatan & Kebugaran
+2025-01-20,719910,dana pensiun,Tabungan & Investasi
+2025-01-20,968984,jilid skripsi,Pendidikan
+2025-01-20,998040,lampu motor,Transportasi
+2025-01-20,770493,tiket teater,Belanja & Hiburan
+2025-01-20,649896,pos,Lain-lain
+2025-01-20,1849711,naik ojek,Transportasi
+2025-01-20,816075,bantuan korban banjir,Donasi & Hadiah
+2025-01-21,1828686,take over,Utang & Cicilan
+2025-01-21,1436789,obligasi,Tabungan & Investasi
+2025-01-21,122681,tas travel,Travel & Liburan
+2025-01-21,1258958,setrika baju,Perumahan & Akomodasi
+2025-01-21,590340,bumbu dapur,Makanan & Minuman
+2025-01-21,530748,ujian,Pendidikan
+2025-01-21,681166,bantuan tsunami,Donasi & Hadiah
+2025-01-21,48483,hadiah imlek,Donasi & Hadiah
+2025-01-21,1966883,hadiah anniversary,Donasi & Hadiah
+2025-01-21,790686,membership gym,Kesehatan & Kebugaran
+2025-01-22,170319,rumah investasi,Tabungan & Investasi
+2025-01-22,171114,personal trainer,Kesehatan & Kebugaran
+2025-01-22,671792,uang parkir,Lain-lain
+2025-01-22,751647,sedekah,Donasi & Hadiah
+2025-01-22,373535,deposit apartemen,Perumahan & Akomodasi
+2025-01-22,115865,donasi pendidikan,Donasi & Hadiah
+2025-01-23,1898320,seminar bisnis,Bisnis & Profesional
+2025-01-23,958573,pensil,Pendidikan
+2025-01-23,1041635,beli buku pelajaran,Pendidikan
+2025-01-23,1626233,bisnis sampingan,Tabungan & Investasi
+2025-01-23,1357640,hard disk,Pendidikan
+2025-01-24,1782324,meja makan,Perumahan & Akomodasi
+2025-01-24,512923,asuransi motor,Transportasi
+2025-01-24,624455,sprei kasur,Perumahan & Akomodasi
+2025-01-24,568963,ganti oli,Transportasi
+2025-01-24,706992,laptop,Pendidikan
+2025-01-24,831593,uang jajan,Lain-lain
+2025-01-24,451177,aplikasi,Pendidikan
+2025-01-25,1043779,peer to peer lending,Tabungan & Investasi
+2025-01-25,1210467,bantuan korban banjir,Donasi & Hadiah
+2025-01-25,1465264,sleeping bag,Travel & Liburan
+2025-01-25,1657789,asuransi kesehatan,Tabungan & Investasi
+2025-01-25,1692412,tinta printer,Pendidikan
+2025-01-25,1682800,medical check up,Kesehatan & Kebugaran
+2025-01-25,1615918,beli es krim,Makanan & Minuman
+2025-01-25,1033832,main futsal,Belanja & Hiburan
+2025-01-25,1412738,tiket teater,Belanja & Hiburan
+2025-01-25,540117,karpet lantai,Perumahan & Akomodasi
+2025-01-25,1299576,unit link,Tabungan & Investasi
+2025-01-25,1596441,obligasi,Tabungan & Investasi
+2025-01-25,843985,domain,Bisnis & Profesional
+2025-01-26,510056,lazismu,Donasi & Hadiah
+2025-01-26,1425059,steam motor,Transportasi
+2025-01-26,1104711,daging ayam,Makanan & Minuman
+2025-01-26,1289397,backpacking,Travel & Liburan
+2025-01-26,917659,dana darurat,Tabungan & Investasi
+2025-01-26,245427,berlangganan streaming,Belanja & Hiburan
+2025-01-26,1544169,donasi masjid,Donasi & Hadiah
+2025-01-27,1486468,beragam,Lain-lain
+2025-01-27,96535,creambath,Kesehatan & Kebugaran
+2025-01-27,1273975,infaq,Donasi & Hadiah
+2025-01-27,221429,service charge,Perumahan & Akomodasi
+2025-01-27,1124423,sarapan,Makanan & Minuman
+2025-01-27,928134,hand sanitizer,Kesehatan & Kebugaran
+2025-01-27,1513219,tas ransel,Belanja & Hiburan
+2025-01-28,502456,cicilan hp,Utang & Cicilan
+2025-01-28,1167485,mandiri finance,Utang & Cicilan
+2025-01-28,525660,donasi lingkungan,Donasi & Hadiah
+2025-01-28,664561,kalkulator,Pendidikan
+2025-01-28,1288609,keperluan sehari-hari,Lain-lain
+2025-01-28,441707,lemari pakaian,Perumahan & Akomodasi
+2025-01-28,259182,keperluan rumah,Lain-lain
+2025-01-28,1894524,investasi jangka panjang,Tabungan & Investasi
+2025-01-29,1682509,keperluan rumah,Lain-lain
+2025-01-29,1875789,klakson,Transportasi
+2025-01-29,513250,rumah investasi,Tabungan & Investasi
+2025-01-30,1522779,jam tangan,Belanja & Hiburan
+2025-01-30,1045613,jilid skripsi,Pendidikan
+2025-01-30,1608071,travel adapter,Travel & Liburan
+2025-01-30,353836,cicilan kulkas,Utang & Cicilan
+2025-01-30,1071486,pedicure,Kesehatan & Kebugaran
+2025-01-30,601955,uang kuliah,Pendidikan
+2025-01-30,493719,topi,Belanja & Hiburan
+2025-01-31,1572236,penggaris,Pendidikan
+2025-01-31,1276211,insentif,Bisnis & Profesional
+2025-01-31,1437824,serum wajah,Kesehatan & Kebugaran
+2025-01-31,1995441,gado-gado,Makanan & Minuman
+2025-01-31,108380,paket honeymoon,Travel & Liburan
+2025-01-31,247925,kebutuhan harian,Lain-lain
+2025-02-01,1411111,cicilan elektronik,Utang & Cicilan
+2025-02-01,374309,jilid skripsi,Pendidikan
+2025-02-01,1162741,gopro,Travel & Liburan
+2025-02-01,1107727,copyright,Bisnis & Profesional
+2025-02-01,546565,les privat,Pendidikan
+2025-02-02,436561,food court,Makanan & Minuman
+2025-02-02,1649811,toner,Kesehatan & Kebugaran
+2025-02-02,1126628,iklan,Bisnis & Profesional
+2025-02-02,1197975,cicilan laptop,Utang & Cicilan
+2025-02-02,1695482,taxi bandara,Transportasi
+2025-02-02,231239,service motor,Transportasi
+2025-02-03,1572653,tabungan liburan,Tabungan & Investasi
+2025-02-03,1338098,cicilan rumah,Utang & Cicilan
+2025-02-03,523828,tas ransel,Belanja & Hiburan
+2025-02-03,499798,cargo,Lain-lain
+2025-02-03,1674275,modal usaha,Tabungan & Investasi
+2025-02-03,303761,kasur baru,Perumahan & Akomodasi
+2025-02-03,574364,investasi jangka pendek,Tabungan & Investasi
+2025-02-04,1334690,peralatan hiking,Travel & Liburan
+2025-02-04,1544966,biaya admin,Utang & Cicilan
+2025-02-04,1085836,donasi bencana,Donasi & Hadiah
+2025-02-04,1994552,property investment,Tabungan & Investasi
+2025-02-04,815410,insektisida,Perumahan & Akomodasi
+2025-02-04,1413011,bus kota,Transportasi
+2025-02-04,1111970,deposito,Tabungan & Investasi
+2025-02-05,1491532,spooring,Transportasi
+2025-02-05,734650,hadiah graduation,Donasi & Hadiah
+2025-02-05,990969,insektisida,Perumahan & Akomodasi
+2025-02-06,1250130,donasi masjid,Donasi & Hadiah
+2025-02-06,689199,cargo,Lain-lain
+2025-02-06,1734215,sunscreen,Kesehatan & Kebugaran
+2025-02-06,1211396,mega finance,Utang & Cicilan
+2025-02-06,189119,promosi,Bisnis & Profesional
+2025-02-06,194268,novel terbaru,Belanja & Hiburan
+2025-02-06,877942,makan di restoran,Makanan & Minuman
+2025-02-06,1939662,ayam goreng,Makanan & Minuman
+2025-02-06,507677,darurat,Lain-lain
+2025-02-07,1195806,gayung mandi,Perumahan & Akomodasi
+2025-02-07,1990959,souvenir,Travel & Liburan
+2025-02-07,1497697,freelancer,Bisnis & Profesional
+2025-02-07,953838,cicilan hp,Utang & Cicilan
+2025-02-07,683257,maintenance fee,Perumahan & Akomodasi
+2025-02-07,1953482,spa treatment,Kesehatan & Kebugaran
+2025-02-08,1130273,air mineral,Makanan & Minuman
+2025-02-08,999024,inventory,Bisnis & Profesional
+2025-02-08,425081,investasi jangka panjang,Tabungan & Investasi
+2025-02-08,1642821,billiard,Belanja & Hiburan
+2025-02-08,267331,berlangganan streaming,Belanja & Hiburan
+2025-02-08,1051116,tenis,Belanja & Hiburan
+2025-02-08,101090,headset,Pendidikan
+2025-02-08,492395,crypto,Tabungan & Investasi
+2025-02-08,810384,uang parkir,Lain-lain
+2025-02-08,1894529,MLM,Tabungan & Investasi
+2025-02-09,1191839,nonton bioskop,Belanja & Hiburan
+2025-02-09,1425156,resort,Travel & Liburan
+2025-02-09,710819,hadiah pernikahan,Donasi & Hadiah
+2025-02-09,1174583,darurat,Lain-lain
+2025-02-09,1296831,cicilan kecil,Lain-lain
+2025-02-09,1198493,bayar cleaning service,Perumahan & Akomodasi
+2025-02-10,194378,jaket outdoor,Travel & Liburan
+2025-02-10,856501,sofa ruang tamu,Perumahan & Akomodasi
+2025-02-10,1334852,beli buku pelajaran,Pendidikan
+2025-02-10,20408,hadiah pernikahan,Donasi & Hadiah
+2025-02-10,1162847,creambath,Kesehatan & Kebugaran
+2025-02-10,222953,homestay,Travel & Liburan
+2025-02-10,601602,sarapan,Makanan & Minuman
+2025-02-11,1791281,distributor,Bisnis & Profesional
+2025-02-11,345682,beli furniture,Perumahan & Akomodasi
+2025-02-11,1546143,stabilo,Pendidikan
+2025-02-11,1881694,cicilan sofa,Utang & Cicilan
+2025-02-11,1830058,kredit plus,Utang & Cicilan
+2025-02-12,295102,pulpen,Pendidikan
+2025-02-12,1003802,refinancing,Utang & Cicilan
+2025-02-12,1107801,bantuan sosial,Donasi & Hadiah
+2025-02-12,84219,gunting rambut,Kesehatan & Kebugaran
+2025-02-13,1881190,snack kecil,Lain-lain
+2025-02-13,227181,kalkulator,Pendidikan
+2025-02-13,1757607,asuransi kredit,Utang & Cicilan
+2025-02-13,1544867,hadiah idul adha,Donasi & Hadiah
+2025-02-13,1670055,biaya admin,Lain-lain
+2025-02-14,799764,minum jus,Makanan & Minuman
+2025-02-14,958839,penginapan,Travel & Liburan
+2025-02-14,1558924,sewa rumah,Perumahan & Akomodasi
+2025-02-14,834982,homestay,Travel & Liburan
+2025-02-14,1971237,aplikasi,Pendidikan
+2025-02-14,1097627,rumah zakat,Donasi & Hadiah
+2025-02-14,505328,donasi lingkungan,Donasi & Hadiah
+2025-02-14,218326,tagihan kecil,Lain-lain
+2025-02-14,645779,conditioner,Kesehatan & Kebugaran
+2025-02-14,1264114,adopsi anak,Donasi & Hadiah
+2025-02-14,1229700,client meeting,Bisnis & Profesional
+2025-02-14,408025,beli buah,Makanan & Minuman
+2025-02-15,1870572,beli susu,Makanan & Minuman
+2025-02-15,1383944,tenda,Travel & Liburan
+2025-02-15,1562949,shampoo,Kesehatan & Kebugaran
+2025-02-15,133908,bensin motor,Transportasi
+2025-02-15,1035693,infaq,Donasi & Hadiah
+2025-02-15,58855,aneka ragam,Lain-lain
+2025-02-16,1167687,pengeluaran kecil,Lain-lain
+2025-02-16,845080,kursus bahasa,Pendidikan
+2025-02-16,1583229,hiking gear,Belanja & Hiburan
+2025-02-16,1093306,fundraising,Donasi & Hadiah
+2025-02-16,272538,mandiri finance,Utang & Cicilan
+2025-02-17,475435,beli donat,Makanan & Minuman
+2025-02-17,468885,meja makan,Perumahan & Akomodasi
+2025-02-17,1762642,service kulkas,Perumahan & Akomodasi
+2025-02-17,254146,beli vitamin,Kesehatan & Kebugaran
+2025-02-18,1767668,macam-macam,Lain-lain
+2025-02-18,880967,meterai,Lain-lain
+2025-02-18,395881,hosting,Bisnis & Profesional
+2025-02-18,1573834,adira finance,Utang & Cicilan
+2025-02-18,40422,reseller,Tabungan & Investasi
+2025-02-18,344737,iuran RT,Perumahan & Akomodasi
+2025-02-18,1547102,mie ayam,Makanan & Minuman
+2025-02-18,589876,leasing motor,Utang & Cicilan
+2025-02-18,1267249,seminar bisnis,Bisnis & Profesional
+2025-02-18,181749,spa treatment,Kesehatan & Kebugaran
+2025-02-19,642271,tiket pesawat,Travel & Liburan
+2025-02-19,158035,bowling,Belanja & Hiburan
+2025-02-19,692712,tabungan umroh,Tabungan & Investasi
+2025-02-19,1342191,crowdfunding sosial,Donasi & Hadiah
+2025-02-19,1319517,kereta bandara,Transportasi
+2025-02-19,319493,rontgen,Kesehatan & Kebugaran
+2025-02-20,208278,cek lab,Kesehatan & Kebugaran
+2025-02-20,453260,cicilan kitchen set,Utang & Cicilan
+2025-02-20,1946467,hadiah valentine,Donasi & Hadiah
+2025-02-20,1594986,adira finance,Utang & Cicilan
+2025-02-20,1597772,alat rumah tangga,Lain-lain
+2025-02-20,1822066,beli buah,Makanan & Minuman
+2025-02-20,65621,alat kebersihan,Perumahan & Akomodasi
+2025-02-20,1431427,netflix,Belanja & Hiburan
+2025-02-20,1347549,lemari pakaian,Perumahan & Akomodasi
+2025-02-21,400910,karaoke,Belanja & Hiburan
+2025-02-21,1921241,facebook ads,Bisnis & Profesional
+2025-02-21,1473339,tas carrier,Travel & Liburan
+2025-02-22,100099,maintenance fee,Perumahan & Akomodasi
+2025-02-22,1611057,ganti oli,Transportasi
+2025-02-22,16470,jaket,Belanja & Hiburan
+2025-02-22,122284,tenis,Belanja & Hiburan
+2025-02-22,780077,deposit apartemen,Perumahan & Akomodasi
+2025-02-22,669840,hard disk,Pendidikan
+2025-02-22,1919639,WOM finance,Utang & Cicilan
+2025-02-23,267829,charity,Donasi & Hadiah
+2025-02-23,1140702,beli donat,Makanan & Minuman
+2025-02-23,305362,CSR perusahaan,Donasi & Hadiah
+2025-02-23,1286049,cat tembok,Perumahan & Akomodasi
+2025-02-23,1671412,leasing mobil,Utang & Cicilan
+2025-02-23,1892949,tanah,Tabungan & Investasi
+2025-02-24,936552,penghapus,Pendidikan
+2025-02-24,1671430,hadiah valentine,Donasi & Hadiah
+2025-02-24,1656454,sikat gigi,Kesehatan & Kebugaran
+2025-02-24,237246,crowdfunding,Tabungan & Investasi
+2025-02-25,1667033,lazismu,Donasi & Hadiah
+2025-02-25,132882,tas travel,Travel & Liburan
+2025-02-25,137825,cicilan rumah,Utang & Cicilan
+2025-02-25,832855,charger portable,Travel & Liburan
+2025-02-25,1380229,donasi panti,Donasi & Hadiah
+2025-02-25,135429,iuran RT,Perumahan & Akomodasi
+2025-02-25,234164,pengeluaran lain,Lain-lain
+2025-02-26,1549687,beli pizza,Makanan & Minuman
+2025-02-26,1116473,tabungan rumah,Tabungan & Investasi
+2025-02-26,1863992,baznas,Donasi & Hadiah
+2025-02-26,1359849,aksesoris,Belanja & Hiburan
+2025-02-26,1843701,kalkulator,Pendidikan
+2025-02-26,792508,penggaris,Pendidikan
+2025-02-27,1092246,warung makan,Makanan & Minuman
+2025-02-27,132837,kacamata,Belanja & Hiburan
+2025-02-27,1525107,obligasi,Tabungan & Investasi
+2025-02-27,741585,cicilan furniture,Utang & Cicilan
+2025-02-27,1165987,hadiah imlek,Donasi & Hadiah
+2025-02-28,565301,mouse komputer,Pendidikan
+2025-02-28,1753381,marketing,Bisnis & Profesional
+2025-02-28,163369,BPJS,Tabungan & Investasi
+2025-02-28,1761293,rendang,Makanan & Minuman
+2025-02-28,705013,investasi reksadana,Tabungan & Investasi
+2025-02-28,830217,jilid skripsi,Pendidikan
+2025-02-28,670599,martabak,Makanan & Minuman
+2025-03-01,516140,cicilan kitchen set,Utang & Cicilan
+2025-03-01,1919273,pengeluaran berkala,Lain-lain
+2025-03-01,126082,BCA finance,Utang & Cicilan
+2025-03-01,177863,asuransi jiwa,Tabungan & Investasi
+2025-03-01,1732304,les privat,Pendidikan
+2025-03-01,1956003,mega finance,Utang & Cicilan
+2025-03-01,1165580,kereta bandara,Transportasi
+2025-03-01,348493,pelunasan,Utang & Cicilan
+2025-03-01,497241,refinancing,Utang & Cicilan
+2025-03-02,1663303,kitabisa,Donasi & Hadiah
+2025-03-02,68514,aksi cepat tanggap,Donasi & Hadiah
+2025-03-02,633911,peer to peer lending,Tabungan & Investasi
+2025-03-02,573869,uang jajan,Lain-lain
+2025-03-02,192248,rumah zakat,Donasi & Hadiah
+2025-03-02,1065709,bayar tol,Transportasi
+2025-03-03,416443,beli celana,Belanja & Hiburan
+2025-03-03,1879572,seminar bisnis,Bisnis & Profesional
+2025-03-03,948659,skincare,Kesehatan & Kebugaran
+2025-03-03,1377630,powerbank,Travel & Liburan
+2025-03-04,1685362,transjakarta,Transportasi
+2025-03-04,1453084,sewa driver,Transportasi
+2025-03-04,388998,jajanan,Lain-lain
+2025-03-04,1882173,massage,Kesehatan & Kebugaran
+2025-03-05,1240779,skincare,Kesehatan & Kebugaran
+2025-03-05,1861847,hadiah valentine,Donasi & Hadiah
+2025-03-05,1311128,client meeting,Bisnis & Profesional
+2025-03-05,525645,massage,Kesehatan & Kebugaran
+2025-03-05,303578,KTA bank,Utang & Cicilan
+2025-03-05,1860250,sabun mandi,Kesehatan & Kebugaran
+2025-03-05,318822,dispenser air,Perumahan & Akomodasi
+2025-03-05,487477,massage,Kesehatan & Kebugaran
+2025-03-05,1663606,visa,Travel & Liburan
+2025-03-06,914164,cicilan hp,Utang & Cicilan
+2025-03-06,945650,map plastik,Pendidikan
+2025-03-06,1437233,headset,Pendidikan
+2025-03-06,1468063,kursus bahasa,Pendidikan
+2025-03-07,991304,berlangganan streaming,Belanja & Hiburan
+2025-03-07,1568773,backpacker,Travel & Liburan
+2025-03-07,1646370,arcade games,Belanja & Hiburan
+2025-03-07,242096,domain,Bisnis & Profesional
+2025-03-07,1878323,kredit tanpa agunan,Utang & Cicilan
+2025-03-07,1464530,beli baju,Belanja & Hiburan
+2025-03-07,711984,makan siang,Makanan & Minuman
+2025-03-07,1044280,adira finance,Utang & Cicilan
+2025-03-08,331064,spidol,Pendidikan
+2025-03-08,975201,rental mobil,Transportasi
+2025-03-08,1088409,instagram ads,Bisnis & Profesional
+2025-03-08,1932351,diving,Belanja & Hiburan
+2025-03-08,1540086,backpacker,Travel & Liburan
+2025-03-08,362530,cicilan furniture,Utang & Cicilan
+2025-03-09,1588905,masker wajah,Kesehatan & Kebugaran
+2025-03-09,503367,ganti kunci,Perumahan & Akomodasi
+2025-03-09,73288,kredit plus,Utang & Cicilan
+2025-03-09,137894,beli buku,Belanja & Hiburan
+2025-03-09,229005,medical check up,Kesehatan & Kebugaran
+2025-03-09,542344,administrasi,Lain-lain
+2025-03-09,1705778,kipas angin,Perumahan & Akomodasi
+2025-03-09,1539521,cicilan sofa,Utang & Cicilan
+2025-03-09,417880,beli lampu,Perumahan & Akomodasi
+2025-03-09,535309,bensin motor,Transportasi
+2025-03-10,1731711,kamera,Travel & Liburan
+2025-03-10,1474500,creambath,Kesehatan & Kebugaran
+2025-03-10,297694,es krim,Lain-lain
+2025-03-10,589095,alat rumah tangga,Lain-lain
+2025-03-10,527126,spooring,Transportasi
+2025-03-11,957934,hadiah natal,Donasi & Hadiah
+2025-03-11,168022,campur-campur,Lain-lain
+2025-03-11,979455,unit link,Tabungan & Investasi
+2025-03-11,455435,helm baru,Transportasi
+2025-03-11,850925,networking,Bisnis & Profesional
+2025-03-11,1128872,beragam,Lain-lain
+2025-03-11,1577167,pengeluaran rutin,Lain-lain
+2025-03-12,1678015,denda telat,Utang & Cicilan
+2025-03-12,1081555,bayar listrik,Perumahan & Akomodasi
+2025-03-12,912030,cicilan springbed,Utang & Cicilan
+2025-03-12,658185,jajanan,Lain-lain
+2025-03-13,619114,villa,Travel & Liburan
+2025-03-14,149612,lawyer,Bisnis & Profesional
+2025-03-14,296996,balancing,Transportasi
+2025-03-14,1854997,USG,Kesehatan & Kebugaran
+2025-03-14,524740,pengeluaran spontan,Lain-lain
+2025-03-14,217395,tzu chi,Donasi & Hadiah
+2025-03-14,171492,shampoo,Kesehatan & Kebugaran
+2025-03-15,744908,soto ayam,Makanan & Minuman
+2025-03-15,1006180,asuransi kendaraan,Tabungan & Investasi
+2025-03-15,1660818,moisturizer,Kesehatan & Kebugaran
+2025-03-15,1936505,instagram ads,Bisnis & Profesional
+2025-03-15,324806,shampoo,Kesehatan & Kebugaran
+2025-03-15,1486555,moisturizer,Kesehatan & Kebugaran
+2025-03-16,651464,taksi online,Transportasi
+2025-03-16,1793435,deposit apartemen,Perumahan & Akomodasi
+2025-03-16,802352,ganti oli,Transportasi
+2025-03-16,1148942,hadiah natal,Donasi & Hadiah
+2025-03-16,290473,insentif,Bisnis & Profesional
+2025-03-16,489893,renang,Belanja & Hiburan
+2025-03-16,192893,printer,Pendidikan
+2025-03-16,1290410,jam tangan,Belanja & Hiburan
+2025-03-17,867143,kalkulator,Pendidikan
+2025-03-17,1118936,uber,Transportasi
+2025-03-17,1656143,tabungan kendaraan,Tabungan & Investasi
+2025-03-17,1505980,boarding pass,Transportasi
+2025-03-18,1271079,uang jajan,Lain-lain
+2025-03-18,1551415,beli emas,Tabungan & Investasi
+2025-03-18,1900268,receh,Lain-lain
+2025-03-18,1550765,tabungan haji,Tabungan & Investasi
+2025-03-18,1063684,shampoo,Kesehatan & Kebugaran
+2025-03-18,1425955,service charge,Perumahan & Akomodasi
+2025-03-18,1915155,cicilan furniture,Utang & Cicilan
+2025-03-19,1045452,permen,Lain-lain
+2025-03-19,46546,helm baru,Transportasi
+2025-03-20,920184,stapler,Pendidikan
+2025-03-20,1289079,vacuum cleaner,Perumahan & Akomodasi
+2025-03-20,1829074,crypto,Tabungan & Investasi
+2025-03-20,130580,aksi cepat tanggap,Donasi & Hadiah
+2025-03-20,253498,miscellaneous,Lain-lain
+2025-03-20,267639,badminton,Belanja & Hiburan
+2025-03-21,315123,conditioner,Kesehatan & Kebugaran
+2025-03-21,1571343,supplier,Bisnis & Profesional
+2025-03-21,556743,bayar gas,Perumahan & Akomodasi
+2025-03-21,1346187,paket honeymoon,Travel & Liburan
+2025-03-21,1949526,sayur mayur,Makanan & Minuman
+2025-03-21,253538,cicilan sofa,Utang & Cicilan
+2025-03-22,1946071,martabak,Makanan & Minuman
+2025-03-22,820492,cicilan mobil,Utang & Cicilan
+2025-03-22,196349,copyright,Bisnis & Profesional
+2025-03-22,286659,e-book,Belanja & Hiburan
+2025-03-22,1950920,grab car,Transportasi
+2025-03-22,1443463,snorkeling,Belanja & Hiburan
+2025-03-22,428604,investasi reksadana,Tabungan & Investasi
+2025-03-22,1587036,family trip,Travel & Liburan
+2025-03-23,1366429,copyright,Bisnis & Profesional
+2025-03-23,292771,parkir motor,Transportasi
+2025-03-23,548359,protein shake,Kesehatan & Kebugaran
+2025-03-24,88594,handuk mandi,Perumahan & Akomodasi
+2025-03-24,1101282,leasing mobil,Utang & Cicilan
+2025-03-24,145998,jajan pasar,Makanan & Minuman
+2025-03-24,493239,pengeluaran tak terduga,Lain-lain
+2025-03-24,227071,cicilan laptop,Utang & Cicilan
+2025-03-24,1725559,helm baru,Transportasi
+2025-03-25,460646,masker wajah,Kesehatan & Kebugaran
+2025-03-25,1447552,bakti sosial,Donasi & Hadiah
+2025-03-25,941286,bantal guling,Perumahan & Akomodasi
+2025-03-25,1058251,tablet,Pendidikan
+2025-03-25,344391,SIUP,Bisnis & Profesional
+2025-03-26,496768,ganti kunci,Perumahan & Akomodasi
+2025-03-26,932377,alat kebersihan,Perumahan & Akomodasi
+2025-03-26,1322179,pensil,Pendidikan
+2025-03-26,479464,biaya provisi,Utang & Cicilan
+2025-03-26,384266,marketing,Bisnis & Profesional
+2025-03-26,316680,warung makan,Makanan & Minuman
+2025-03-27,896614,rental car,Travel & Liburan
+2025-03-27,391917,e-book,Belanja & Hiburan
+2025-03-27,459395,jilid skripsi,Pendidikan
+2025-03-28,901924,adventure tour,Travel & Liburan
+2025-03-28,1232525,underwear,Belanja & Hiburan
+2025-03-28,565057,food court,Makanan & Minuman
+2025-03-28,457080,warung franchise,Tabungan & Investasi
+2025-03-28,1508485,perbaikan AC,Perumahan & Akomodasi
+2025-03-28,928718,hadiah valentine,Donasi & Hadiah
+2025-03-28,1866589,tip,Lain-lain
+2025-03-28,1285811,daging ayam,Makanan & Minuman
+2025-03-28,1358407,personal trainer,Kesehatan & Kebugaran
+2025-03-28,1759270,lain-lain,Lain-lain
+2025-03-29,904321,tenis,Belanja & Hiburan
+2025-03-29,1023506,izin usaha,Bisnis & Profesional
+2025-03-29,1885291,konsultasi dokter,Kesehatan & Kebugaran
+2025-03-29,1533403,spidol,Pendidikan
+2025-03-29,1482714,conditioner,Kesehatan & Kebugaran
+2025-03-29,1962167,meterai,Lain-lain
+2025-03-29,1359585,impulse buying,Lain-lain
+2025-03-30,1799009,biaya admin,Utang & Cicilan
+2025-03-30,93825,laptop,Pendidikan
+2025-03-30,178372,kredit konsumtif,Utang & Cicilan
+2025-03-30,1903086,parkir motor,Transportasi
+2025-03-30,50051,fotokopi,Lain-lain
+2025-03-30,11450,promosi,Bisnis & Profesional
+2025-03-30,286578,uang saku,Lain-lain
+2025-03-30,1021145,sikat gigi,Kesehatan & Kebugaran
+2025-03-31,1405561,kasur baru,Perumahan & Akomodasi
+2025-03-31,1463772,makan siang,Makanan & Minuman
+2025-03-31,856011,boarding pass,Transportasi
+2025-03-31,688613,donasi online,Donasi & Hadiah
+2025-03-31,1194612,refinancing,Utang & Cicilan
+2025-03-31,745283,iklan,Bisnis & Profesional
+2025-03-31,293720,uber,Transportasi
+2025-04-01,354479,adopsi anak,Donasi & Hadiah
+2025-04-01,603898,shampoo,Kesehatan & Kebugaran
+2025-04-01,383947,snorkeling,Belanja & Hiburan
+2025-04-01,660235,bantuan korban banjir,Donasi & Hadiah
+2025-04-01,1525960,pulpen,Pendidikan
+2025-04-01,188242,fee,Bisnis & Profesional
+2025-04-01,568042,investasi pendidikan,Tabungan & Investasi
+2025-04-01,1424399,sofa ruang tamu,Perumahan & Akomodasi
+2025-04-01,1054482,bantal guling,Perumahan & Akomodasi
+2025-04-02,1434244,suplemen,Kesehatan & Kebugaran
+2025-04-02,552886,jilid skripsi,Pendidikan
+2025-04-04,1353451,komisi,Bisnis & Profesional
+2025-04-04,161172,asuransi motor,Transportasi
+2025-04-04,1117022,reseller,Tabungan & Investasi
+2025-04-04,1124130,tour package,Travel & Liburan
+2025-04-04,1348418,tabungan umroh,Tabungan & Investasi
+2025-04-05,1128309,workshop,Pendidikan
+2025-04-05,857518,take over,Utang & Cicilan
+2025-04-05,549775,uang saku,Lain-lain
+2025-04-05,1140830,jam tangan,Belanja & Hiburan
+2025-04-05,478413,bisnis sampingan,Tabungan & Investasi
+2025-04-05,716532,sarapan,Makanan & Minuman
+2025-04-05,933107,map plastik,Pendidikan
+2025-04-05,427237,bantuan sosial,Donasi & Hadiah
+2025-04-06,1820131,sedekah,Donasi & Hadiah
+2025-04-06,1387908,software,Pendidikan
+2025-04-06,280018,ganti aki,Transportasi
+2025-04-06,390637,crowdfunding,Tabungan & Investasi
+2025-04-06,956437,beli pizza,Makanan & Minuman
+2025-04-06,1227436,manicure,Kesehatan & Kebugaran
+2025-04-06,439890,rental motor,Transportasi
+2025-04-07,1987680,tiket wisata,Travel & Liburan
+2025-04-07,1709237,makan siang,Makanan & Minuman
+2025-04-07,200541,designer,Bisnis & Profesional
+2025-04-08,634699,seminar,Pendidikan
+2025-04-08,1597409,service charge,Perumahan & Akomodasi
+2025-04-08,1036790,diving,Belanja & Hiburan
+2025-04-08,822852,peralatan hiking,Travel & Liburan
+2025-04-08,276204,printer,Pendidikan
+2025-04-09,1942581,service kulkas,Perumahan & Akomodasi
+2025-04-09,1535108,asuransi kesehatan,Tabungan & Investasi
+2025-04-09,149374,donasi online,Donasi & Hadiah
+2025-04-09,1208692,tas travel,Travel & Liburan
+2025-04-09,1456693,karaoke,Belanja & Hiburan
+2025-04-09,1153321,networking,Bisnis & Profesional
+2025-04-09,1349203,bumbu dapur,Makanan & Minuman
+2025-04-10,1465858,karaoke,Belanja & Hiburan
+2025-04-10,788254,bis damri,Transportasi
+2025-04-10,1838328,kredit tanpa agunan,Utang & Cicilan
+2025-04-10,1313225,SIUP,Bisnis & Profesional
+2025-04-10,1092439,cemilan anak,Makanan & Minuman
+2025-04-11,1494430,hiking gear,Belanja & Hiburan
+2025-04-11,599317,spooring,Transportasi
+2025-04-12,809438,camping,Travel & Liburan
+2025-04-12,864787,beli roti,Makanan & Minuman
+2025-04-12,425837,cemilan anak,Makanan & Minuman
+2025-04-12,1482724,cemilan anak,Makanan & Minuman
+2025-04-12,1735802,kertas HVS,Pendidikan
+2025-04-12,1092798,teh botol,Makanan & Minuman
+2025-04-12,825175,correction pen,Pendidikan
+2025-04-12,1423777,cat tembok,Perumahan & Akomodasi
+2025-04-13,24535,seminar,Pendidikan
+2025-04-13,1759661,deposit apartemen,Perumahan & Akomodasi
+2025-04-13,1228361,suplemen,Kesehatan & Kebugaran
+2025-04-13,50064,adventure tour,Travel & Liburan
+2025-04-14,214675,crowdfunding sosial,Donasi & Hadiah
+2025-04-14,1885146,NPWP,Bisnis & Profesional
+2025-04-14,900641,print,Lain-lain
+2025-04-14,317378,franchise fee,Bisnis & Profesional
+2025-04-14,988316,bayar kos,Perumahan & Akomodasi
+2025-04-14,20609,jaket,Belanja & Hiburan
+2025-04-14,1384845,yoga class,Kesehatan & Kebugaran
+2025-04-15,1467210,bantuan sosial,Donasi & Hadiah
+2025-04-15,1954162,beli es krim,Makanan & Minuman
+2025-04-15,944730,BCA finance,Utang & Cicilan
+2025-04-15,430974,hiking gear,Belanja & Hiburan
+2025-04-15,56198,donasi online,Donasi & Hadiah
+2025-04-15,375921,sarapan,Makanan & Minuman
+2025-04-16,1725789,correction pen,Pendidikan
+2025-04-16,29788,uang kuliah,Pendidikan
+2025-04-16,1196285,izin usaha,Bisnis & Profesional
+2025-04-16,317439,cicilan mesin cuci,Utang & Cicilan
+2025-04-16,1716586,fotokopi,Pendidikan
+2025-04-16,747166,correction pen,Pendidikan
+2025-04-17,550587,beli tiket kereta,Transportasi
+2025-04-17,968789,endorse,Bisnis & Profesional
+2025-04-17,124307,cicilan rumah,Utang & Cicilan
+2025-04-17,1059671,tiket konser,Belanja & Hiburan
+2025-04-17,1943044,minum jus,Makanan & Minuman
+2025-04-17,1569386,MLM,Tabungan & Investasi
+2025-04-18,1521828,designer,Bisnis & Profesional
+2025-04-18,1535958,nonton bioskop,Belanja & Hiburan
+2025-04-18,1588860,cicilan kecil,Lain-lain
+2025-04-18,1772710,metro mini,Transportasi
+2025-04-18,937346,alat tulis,Pendidikan
+2025-04-18,1551210,infaq,Donasi & Hadiah
+2025-04-19,1452951,bonus,Bisnis & Profesional
+2025-04-19,1825868,website,Bisnis & Profesional
+2025-04-19,209795,webcam,Pendidikan
+2025-04-19,889744,helm baru,Transportasi
+2025-04-20,1177151,lisensi,Bisnis & Profesional
+2025-04-20,1406292,tzu chi,Donasi & Hadiah
+2025-04-20,1366553,receh,Lain-lain
+2025-04-20,1337550,gopro,Travel & Liburan
+2025-04-20,7859,meterai,Lain-lain
+2025-04-20,1374563,donasi kesehatan,Donasi & Hadiah
+2025-04-20,1499193,biaya bandara,Transportasi
+2025-04-20,148103,cicilan springbed,Utang & Cicilan
+2025-04-21,336298,mini golf,Belanja & Hiburan
+2025-04-21,855220,kaos kaki,Belanja & Hiburan
+2025-04-21,1991943,denda telat,Utang & Cicilan
+2025-04-21,364035,cicilan kulkas,Utang & Cicilan
+2025-04-21,710427,dokumentasi,Travel & Liburan
+2025-04-22,727499,lisensi,Bisnis & Profesional
+2025-04-22,1733705,go-kart,Belanja & Hiburan
+2025-04-22,1089766,cicilan elektronik,Utang & Cicilan
+2025-04-23,1417147,lain-lain,Lain-lain
+2025-04-23,1125138,balancing,Transportasi
+2025-04-23,1048061,refinancing,Utang & Cicilan
+2025-04-23,1122193,snorkeling,Belanja & Hiburan
+2025-04-23,1882318,crypto,Tabungan & Investasi
+2025-04-23,247595,oli mesin,Transportasi
+2025-04-24,1165198,tiket pantai,Travel & Liburan
+2025-04-24,1521230,tiket pesawat,Transportasi
+2025-04-24,719414,jajanan,Lain-lain
+2025-04-25,16012,oto finance,Utang & Cicilan
+2025-04-25,782424,pensil,Pendidikan
+2025-04-25,88686,cicilan rumah,Utang & Cicilan
+2025-04-25,789249,fotokopi,Lain-lain
+2025-04-25,668778,zakat,Donasi & Hadiah
+2025-04-25,1926267,medical check up,Kesehatan & Kebugaran
+2025-04-26,490440,beli sepatu,Belanja & Hiburan
+2025-04-26,703998,materai,Pendidikan
+2025-04-26,22149,mini golf,Belanja & Hiburan
+2025-04-26,1796704,adira finance,Utang & Cicilan
+2025-04-26,1485511,kaos kaki,Belanja & Hiburan
+2025-04-26,141048,tunjangan,Bisnis & Profesional
+2025-04-27,135613,pos,Lain-lain
+2025-04-27,1736416,solo traveling,Travel & Liburan
+2025-04-27,465039,kredit konsumtif,Utang & Cicilan
+2025-04-27,1461722,service motor,Transportasi
+2025-04-27,513942,infaq,Donasi & Hadiah
+2025-04-27,118957,bakti sosial,Donasi & Hadiah
+2025-04-27,1064675,cicilan TV,Utang & Cicilan
+2025-04-28,1596405,aneka ragam,Lain-lain
+2025-04-28,15866,maintenance fee,Perumahan & Akomodasi
+2025-04-28,1934854,map plastik,Pendidikan
+2025-04-28,1613184,sepatu gunung,Travel & Liburan
+2025-04-28,316705,business meeting,Bisnis & Profesional
+2025-04-28,439547,balancing,Transportasi
+2025-04-29,1698443,moisturizer,Kesehatan & Kebugaran
+2025-04-29,1584765,beli sepatu,Belanja & Hiburan
+2025-04-29,766883,print,Lain-lain
+2025-04-29,60291,resort,Travel & Liburan
+2025-04-29,1968385,dropship,Tabungan & Investasi
+2025-04-29,1310889,sabun cuci piring,Perumahan & Akomodasi
+2025-04-29,1984857,minum jus,Makanan & Minuman
+2025-04-29,1750915,facial,Kesehatan & Kebugaran
+2025-04-30,1749352,iuran RT,Perumahan & Akomodasi
+2025-04-30,289696,pecel lele,Makanan & Minuman
+2025-04-30,340040,kredit investasi,Utang & Cicilan
+2025-04-30,251094,beli tiket kereta,Transportasi
+2025-05-01,560864,tour package,Travel & Liburan
+2025-05-01,699659,cemilan anak,Makanan & Minuman
+2025-05-01,1003794,bantuan sosial,Donasi & Hadiah
+2025-05-01,47431,e-book,Belanja & Hiburan
+2025-05-01,23462,family trip,Travel & Liburan
+2025-05-01,143654,tenda,Travel & Liburan
+2025-05-01,733375,property investment,Tabungan & Investasi
+2025-05-01,587449,instagram ads,Bisnis & Profesional
+2025-05-01,1211054,spooring,Transportasi
+2025-05-01,1389599,powerbank,Travel & Liburan
+2025-05-02,1519131,setrika baju,Perumahan & Akomodasi
+2025-05-02,1068916,jasa profesional,Bisnis & Profesional
+2025-05-02,86865,kitabisa,Donasi & Hadiah
+2025-05-02,931679,cicilan kulkas,Utang & Cicilan
+2025-05-02,787661,campur-campur,Lain-lain
+2025-05-02,1997585,insentif,Bisnis & Profesional
+2025-05-02,257252,hotel,Travel & Liburan
+2025-05-02,985213,fax,Lain-lain
+2025-05-02,1903347,kontrak kerja,Bisnis & Profesional
+2025-05-03,599053,konsultasi dokter,Kesehatan & Kebugaran
+2025-05-03,1611144,nonton bioskop,Belanja & Hiburan
+2025-05-03,1779480,sarung tangan,Transportasi
+2025-05-04,845344,bayar gas,Perumahan & Akomodasi
+2025-05-04,1328203,cemilan anak,Makanan & Minuman
+2025-05-04,1043143,google ads,Bisnis & Profesional
+2025-05-05,1706833,hosting,Bisnis & Profesional
+2025-05-05,1618054,powerbank,Travel & Liburan
+2025-05-05,1480909,sikat gigi,Kesehatan & Kebugaran
+2025-05-05,1125649,donasi PMI,Donasi & Hadiah
+2025-05-05,1243978,bunga pinjaman,Utang & Cicilan
+2025-05-05,254125,influencer,Bisnis & Profesional
+2025-05-05,900636,bubble tea,Makanan & Minuman
+2025-05-06,1324161,kaca spion,Transportasi
+2025-05-06,58971,cek lab,Kesehatan & Kebugaran
+2025-05-06,344325,designer,Bisnis & Profesional
+2025-05-06,1670859,spotify premium,Belanja & Hiburan
+2025-05-07,1964355,webcam,Pendidikan
+2025-05-07,291589,lemari pakaian,Perumahan & Akomodasi
+2025-05-08,1691597,majalah,Belanja & Hiburan
+2025-05-08,666477,software,Pendidikan
+2025-05-08,970985,cuci motor,Transportasi
+2025-05-08,302979,pengeluaran lain,Lain-lain
+2025-05-08,531152,renang,Belanja & Hiburan
+2025-05-08,510207,franchise fee,Bisnis & Profesional
+2025-05-09,37991,copyright,Bisnis & Profesional
+2025-05-09,877363,ganti kunci,Perumahan & Akomodasi
+2025-05-09,909550,emergency,Lain-lain
+2025-05-09,923894,lazismu,Donasi & Hadiah
+2025-05-09,1455846,travel agent,Travel & Liburan
+2025-05-09,1177504,kereta bandara,Transportasi
+2025-05-09,1736629,jaket riding,Transportasi
+2025-05-09,242322,uang parkir,Lain-lain
+2025-05-09,423348,metro mini,Transportasi
+2025-05-09,444911,beli celana,Belanja & Hiburan
+2025-05-10,1736690,cicilan TV,Utang & Cicilan
+2025-05-10,1599271,tenis,Belanja & Hiburan
+2025-05-10,1162454,paper clip,Pendidikan
+2025-05-10,718435,bunga pinjaman,Utang & Cicilan
+2025-05-10,1216422,novel terbaru,Belanja & Hiburan
+2025-05-10,1631548,facial,Kesehatan & Kebugaran
+2025-05-10,655869,kebutuhan harian,Lain-lain
+2025-05-11,580872,instagram ads,Bisnis & Profesional
+2025-05-11,1326252,sewa apartemen,Perumahan & Akomodasi
+2025-05-11,1058595,printer,Pendidikan
+2025-05-11,240910,cicilan sofa,Utang & Cicilan
+2025-05-11,1808123,cicilan mobil,Utang & Cicilan
+2025-05-12,293495,protein shake,Kesehatan & Kebugaran
+2025-05-12,997050,kitabisa,Donasi & Hadiah
+2025-05-12,1807678,beli kopi,Makanan & Minuman
+2025-05-12,1524626,makanan tradisional,Travel & Liburan
+2025-05-13,627241,transjakarta,Transportasi
+2025-05-13,1888833,sayur mayur,Makanan & Minuman
+2025-05-13,273886,binder,Pendidikan
+2025-05-13,1255060,gayung mandi,Perumahan & Akomodasi
+2025-05-13,923518,bantal guling,Perumahan & Akomodasi
+2025-05-13,20149,bayar kos,Perumahan & Akomodasi
+2025-05-13,1710262,diving,Belanja & Hiburan
+2025-05-13,1651024,majalah,Belanja & Hiburan
+2025-05-14,1299906,penginapan,Travel & Liburan
+2025-05-14,10186,tinta printer,Pendidikan
+2025-05-14,559397,yoga class,Kesehatan & Kebugaran
+2025-05-14,1112943,biaya gym,Kesehatan & Kebugaran
+2025-05-14,17354,mi instan,Makanan & Minuman
+2025-05-14,1618648,beli roti,Makanan & Minuman
+2025-05-15,939244,deterjen,Perumahan & Akomodasi
+2025-05-15,1350971,lampu motor,Transportasi
+2025-05-15,1667494,deposito,Tabungan & Investasi
+2025-05-15,997978,pasta gigi,Kesehatan & Kebugaran
+2025-05-15,175181,tabungan liburan,Tabungan & Investasi
+2025-05-15,1650562,konsultasi dokter,Kesehatan & Kebugaran
+2025-05-15,1760618,pengharum ruangan,Perumahan & Akomodasi
+2025-05-16,1134485,oli mesin,Transportasi
+2025-05-16,1974337,donasi lingkungan,Donasi & Hadiah
+2025-05-16,633706,cicilan kecil,Lain-lain
+2025-05-16,350785,alat tulis,Pendidikan
+2025-05-16,1238773,hiking gear,Belanja & Hiburan
+2025-05-17,200147,cicilan mobil,Utang & Cicilan
+2025-05-17,1208899,bayar kos,Perumahan & Akomodasi
+2025-05-17,289643,rontgen,Kesehatan & Kebugaran
+2025-05-17,1541734,kredit konsumtif,Utang & Cicilan
+2025-05-17,688432,bantuan sosial,Donasi & Hadiah
+2025-05-17,761713,beli tiket kereta,Transportasi
+2025-05-17,852066,cicilan TV,Utang & Cicilan
+2025-05-17,1442333,royalty,Bisnis & Profesional
+2025-05-17,1472204,jaket outdoor,Travel & Liburan
+2025-05-18,1325043,ember plastik,Perumahan & Akomodasi
+2025-05-18,210976,scan,Lain-lain
+2025-05-18,698936,penghapus,Pendidikan
+2025-05-18,1684860,vacuum cleaner,Perumahan & Akomodasi
+2025-05-18,828414,shampoo,Kesehatan & Kebugaran
+2025-05-18,1976920,asuransi kesehatan,Tabungan & Investasi
+2025-05-18,151468,pesan makanan online,Makanan & Minuman
+2025-05-18,1833591,lemari pakaian,Perumahan & Akomodasi
+2025-05-18,643282,paper clip,Pendidikan
+2025-05-19,1034293,donasi pendidikan,Donasi & Hadiah
+2025-05-19,493052,balancing,Transportasi
+2025-05-19,620646,angsuran bank,Utang & Cicilan
+2025-05-19,281655,tablet,Pendidikan
+2025-05-19,1275930,kurir,Lain-lain
+2025-05-19,1424841,bumbu dapur,Makanan & Minuman
+2025-05-20,1598577,BCA finance,Utang & Cicilan
+2025-05-20,1166867,cemilan anak,Makanan & Minuman
+2025-05-20,986510,sarung tangan,Transportasi
+2025-05-20,1599846,masker wajah,Kesehatan & Kebugaran
+2025-05-20,1639784,parkir motor,Transportasi
+2025-05-20,1239933,suplemen,Kesehatan & Kebugaran
+2025-05-20,475853,koper,Travel & Liburan
+2025-05-20,593788,kursus bahasa,Pendidikan
+2025-05-21,314479,rumah investasi,Tabungan & Investasi
+2025-05-21,1415377,rumah zakat,Donasi & Hadiah
+2025-05-21,876640,tabungan haji,Tabungan & Investasi
+2025-05-21,752676,gula pasir,Makanan & Minuman
+2025-05-21,1223836,asuransi kredit,Utang & Cicilan
+2025-05-22,1987214,camping equipment,Belanja & Hiburan
+2025-05-22,1843663,tiket pesawat,Transportasi
+2025-05-22,1979649,mi instan,Makanan & Minuman
+2025-05-22,242420,visa,Travel & Liburan
+2025-05-22,1580862,bus kota,Transportasi
+2025-05-22,1176232,konsultasi dokter,Kesehatan & Kebugaran
+2025-05-23,1089694,keyboard,Pendidikan
+2025-05-23,1568098,porter bandara,Transportasi
+2025-05-23,1048838,paket honeymoon,Travel & Liburan
+2025-05-23,952716,manicure,Kesehatan & Kebugaran
+2025-05-24,491934,hadiah valentine,Donasi & Hadiah
+2025-05-24,564353,keyboard,Pendidikan
+2025-05-24,612485,franchise fee,Bisnis & Profesional
+2025-05-24,1688628,cicilan hp,Utang & Cicilan
+2025-05-24,1290636,camping,Travel & Liburan
+2025-05-24,1347880,steam motor,Transportasi
+2025-05-24,553751,leasing motor,Utang & Cicilan
+2025-05-24,1424298,backpacking,Travel & Liburan
+2025-05-25,1466578,tablet,Pendidikan
+2025-05-25,1280034,tiket pesawat,Travel & Liburan
+2025-05-25,1498444,pengeluaran spontan,Lain-lain
+2025-05-25,1865944,marketing,Bisnis & Profesional
+2025-05-26,304623,dana pensiun,Tabungan & Investasi
+2025-05-26,39467,relawan,Donasi & Hadiah
+2025-05-26,1191687,MLM,Tabungan & Investasi
+2025-05-26,1320316,hadiah ulang tahun,Donasi & Hadiah
+2025-05-26,1950761,ban motor,Transportasi
+2025-05-27,1918919,sarung tangan,Transportasi
+2025-05-27,56511,taxi bandara,Transportasi
+2025-05-27,718274,transjakarta,Transportasi
+2025-05-27,1162177,kredit konsumtif,Utang & Cicilan
+2025-05-27,789875,pos,Lain-lain
+2025-05-27,500986,nasi padang,Makanan & Minuman
+2025-05-28,949815,beli tiket kereta,Transportasi
+2025-05-28,1948146,wahana permainan,Belanja & Hiburan
+2025-05-28,991005,backpacker,Travel & Liburan
+2025-05-28,1354841,oleh-oleh,Travel & Liburan
+2025-05-29,814849,penghapus,Pendidikan
+2025-05-29,1452643,receh,Lain-lain
+2025-05-29,907977,scan,Lain-lain
+2025-05-29,381112,bahan baku,Bisnis & Profesional
+2025-05-29,505969,ayam goreng,Makanan & Minuman
+2025-05-29,1809389,amplop,Pendidikan
+2025-05-29,1194278,setrika baju,Perumahan & Akomodasi
+2025-05-29,578471,campur-campur,Lain-lain
+2025-05-30,1340628,city tour,Travel & Liburan
+2025-05-30,1016332,iuran RT,Perumahan & Akomodasi
+2025-05-30,1991035,majalah,Belanja & Hiburan
+2025-05-31,940148,tabungan rumah,Tabungan & Investasi
+2025-05-31,773797,service motor,Transportasi
+2025-05-31,14096,jaket riding,Transportasi
+2025-05-31,1738325,pajak,Bisnis & Profesional
+2025-05-31,910834,service kulkas,Perumahan & Akomodasi
+2025-05-31,1118842,bumbu dapur,Makanan & Minuman
+2025-05-31,569736,crypto,Tabungan & Investasi
+2025-05-31,1049224,jajan pasar,Makanan & Minuman
+2025-06-01,1182016,zakat,Donasi & Hadiah
+2025-06-01,1143921,sewa driver,Transportasi
+2025-06-01,533589,bayar cleaning service,Perumahan & Akomodasi
+2025-06-01,212839,charity,Donasi & Hadiah
+2025-06-02,31533,konsultan,Bisnis & Profesional
+2025-06-02,1145106,es krim,Lain-lain
+2025-06-02,1641861,forex,Tabungan & Investasi
+2025-06-02,156804,sapu dan pel,Perumahan & Akomodasi
+2025-06-02,1856643,mutual fund,Tabungan & Investasi
+2025-06-02,1902829,beras,Makanan & Minuman
+2025-06-02,328581,cicilan hp,Utang & Cicilan
+2025-06-02,61031,minyak goreng,Makanan & Minuman
+2025-06-02,1146746,e-book,Belanja & Hiburan
+2025-06-03,325527,hadiah lebaran,Donasi & Hadiah
+2025-06-03,47644,souvenir,Travel & Liburan
+2025-06-03,1620501,sunscreen,Kesehatan & Kebugaran
+2025-06-03,1484438,course online,Pendidikan
+2025-06-03,105103,sertifikasi,Pendidikan
+2025-06-04,765422,beli buku pelajaran,Pendidikan
+2025-06-04,1010911,aneka ragam,Lain-lain
+2025-06-05,1589990,pinjaman online,Utang & Cicilan
+2025-06-05,699471,tabungan liburan,Tabungan & Investasi
+2025-06-05,89420,tabungan umroh,Tabungan & Investasi
+2025-06-05,624796,gunting rambut,Kesehatan & Kebugaran
+2025-06-05,1724814,tabungan rumah,Tabungan & Investasi
+2025-06-05,1093196,hard disk,Pendidikan
+2025-06-05,1235714,periksa dokter,Kesehatan & Kebugaran
+2025-06-05,1639461,tabungan rumah,Tabungan & Investasi
+2025-06-06,1175197,kebutuhan harian,Lain-lain
+2025-06-06,768081,karpet lantai,Perumahan & Akomodasi
+2025-06-06,490849,city tour,Travel & Liburan
+2025-06-06,1870694,cicilan mesin cuci,Utang & Cicilan
+2025-06-06,343514,beli sepatu,Belanja & Hiburan
+2025-06-06,1394608,cek lab,Kesehatan & Kebugaran
+2025-06-07,1891398,tirai jendela,Perumahan & Akomodasi
+2025-06-07,1182460,lawyer,Bisnis & Profesional
+2025-06-07,1902459,service charge,Perumahan & Akomodasi
+2025-06-07,885146,hadiah anniversary,Donasi & Hadiah
+2025-06-07,594590,uber,Transportasi
+2025-06-08,906594,meja makan,Perumahan & Akomodasi
+2025-06-08,60075,unit link,Tabungan & Investasi
+2025-06-08,1810034,main futsal,Belanja & Hiburan
+2025-06-08,390860,angkot,Transportasi
+2025-06-08,1033580,ETF,Tabungan & Investasi
+2025-06-08,41794,cicilan kecil,Lain-lain
